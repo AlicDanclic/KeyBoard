@@ -1,5 +1,219 @@
-(kicad_sch (version 20231120) (generator "eeschema") (generator_version "8.0")
-  (paper "A4")
-  (lib_symbols)
-  (symbol_instances)
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "241a990a-4472-4769-ab02-cee073c97173")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 43.18 45.72)
+		(size 15.24 12.7)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+			(color 52 0 255 1)
+		)
+		(fill
+			(color 255 255 255 1.0000)
+		)
+		(uuid "77c23681-96d1-4d2e-b266-559a6336a1b0")
+		(property "Sheetname" "KEY"
+			(at 43.18 45.0084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "KYE.kicad_sch"
+			(at 43.18 59.0046 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "SPI1_CLK" input
+			(at 58.42 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "c485533e-b8db-4d26-ad71-1efbe103e5bd")
+		)
+		(pin "CE" input
+			(at 58.42 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "d5f0a038-8221-4d7a-8bca-7a0cd31c7644")
+		)
+		(pin "PL" input
+			(at 58.42 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "ef73e9e2-6052-4af2-8275-83aa8a20c5cc")
+		)
+		(pin "SPI1_MISO" output
+			(at 58.42 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "4e71feca-7e5a-4f95-81cc-7544d10aa963")
+		)
+		(instances
+			(project "KeyBoard"
+				(path "/241a990a-4472-4769-ab02-cee073c97173"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 74.93 35.56)
+		(size 16.51 40.64)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+			(color 52 0 255 1)
+		)
+		(fill
+			(color 255 255 255 1.0000)
+		)
+		(uuid "7ce5fb66-2561-4b30-91bd-750c7a0b16af")
+		(property "Sheetname" "MCU"
+			(at 74.93 34.8484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "MCU.kicad_sch"
+			(at 74.93 76.7846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "KeyBoard"
+				(path "/241a990a-4472-4769-ab02-cee073c97173"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 43.18 63.5)
+		(size 15.24 12.7)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+			(color 52 0 255 1)
+		)
+		(fill
+			(color 255 255 255 1.0000)
+		)
+		(uuid "b840dd17-eb70-42c2-8bea-1b5a7637e16c")
+		(property "Sheetname" "Device"
+			(at 43.18 62.7884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Device.kicad_sch"
+			(at 43.18 76.7846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "KeyBoard"
+				(path "/241a990a-4472-4769-ab02-cee073c97173"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 43.18 35.56)
+		(size 15.24 5.08)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+			(color 52 0 255 1)
+		)
+		(fill
+			(color 255 255 255 1.0000)
+		)
+		(uuid "c69efa6e-61e7-4a30-91d1-43cd750b7d81")
+		(property "Sheetname" "LED"
+			(at 43.18 34.8484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "LED.kicad_sch"
+			(at 43.18 41.2246 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "LED_CE" input
+			(at 58.42 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "9fc56273-ab8d-4cfd-8c05-d9633737f746")
+		)
+		(instances
+			(project "KeyBoard"
+				(path "/241a990a-4472-4769-ab02-cee073c97173"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
 )

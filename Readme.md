@@ -26,3 +26,35 @@
     </div>
 </div>
 <hr style="border: none; height: 2px; background: linear-gradient(to right, #ff0000, #ff7f00, #ffff00, #00ff00, #0000ff, #4b0082, #8f00ff); width: 100%; margin: 0 auto;">
+
+> 作为一个客制化键盘的主键盘,在这里我将介绍我的学习过程,希望一起学习
+
+### 基础介绍
+
+
+
+### 键盘布局
+
+
+
+### 原理图绘制
+
+
+
+### PCB绘制
+
+
+
+### 键帽设计
+
+
+
+### 3D外壳
+
+
+
+### 固件编写
+
+
+
+### 最终成果

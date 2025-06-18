@@ -5,8 +5,58 @@
 	(uuid "241a990a-4472-4769-ab02-cee073c97173")
 	(paper "A4")
 	(lib_symbols)
+	(wire
+		(pts
+			(xy 63.5 57.15) (xy 74.93 57.15)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "52da53b9-0fb4-4932-8d6f-c57d84540d71")
+	)
+	(wire
+		(pts
+			(xy 63.5 46.99) (xy 74.93 46.99)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "725714c0-d799-4c93-991b-905c5210dced")
+	)
+	(wire
+		(pts
+			(xy 63.5 62.23) (xy 74.93 62.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "92feebed-2147-49b9-ac0c-b7a17c583fed")
+	)
+	(wire
+		(pts
+			(xy 63.5 64.77) (xy 74.93 64.77)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "98c78aa9-0a07-484c-990f-0bd3e8bbcaab")
+	)
+	(wire
+		(pts
+			(xy 63.5 59.69) (xy 74.93 59.69)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b31814b6-7998-4a17-8b1c-be7da4900cf1")
+	)
 	(sheet
-		(at 43.18 45.72)
+		(at 48.26 54.61)
 		(size 15.24 12.7)
 		(fields_autoplaced yes)
 		(stroke
@@ -19,7 +69,7 @@
 		)
 		(uuid "77c23681-96d1-4d2e-b266-559a6336a1b0")
 		(property "Sheetname" "KEY"
-			(at 43.18 45.0084 0)
+			(at 48.26 53.8984 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28,7 +78,7 @@
 			)
 		)
 		(property "Sheetfile" "KYE.kicad_sch"
-			(at 43.18 59.0046 0)
+			(at 48.26 67.8946 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37,7 +87,7 @@
 			)
 		)
 		(pin "SPI1_CLK" input
-			(at 58.42 48.26 0)
+			(at 63.5 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -47,7 +97,7 @@
 			(uuid "c485533e-b8db-4d26-ad71-1efbe103e5bd")
 		)
 		(pin "CE" input
-			(at 58.42 50.8 0)
+			(at 63.5 59.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -57,7 +107,7 @@
 			(uuid "d5f0a038-8221-4d7a-8bca-7a0cd31c7644")
 		)
 		(pin "PL" input
-			(at 58.42 53.34 0)
+			(at 63.5 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -67,7 +117,7 @@
 			(uuid "ef73e9e2-6052-4af2-8275-83aa8a20c5cc")
 		)
 		(pin "SPI1_MISO" output
-			(at 58.42 55.88 0)
+			(at 63.5 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -85,8 +135,8 @@
 		)
 	)
 	(sheet
-		(at 74.93 35.56)
-		(size 16.51 40.64)
+		(at 74.93 44.45)
+		(size 16.51 22.86)
 		(fields_autoplaced yes)
 		(stroke
 			(width 0.1524)
@@ -98,7 +148,7 @@
 		)
 		(uuid "7ce5fb66-2561-4b30-91bd-750c7a0b16af")
 		(property "Sheetname" "MCU"
-			(at 74.93 34.8484 0)
+			(at 74.93 43.7384 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -107,13 +157,63 @@
 			)
 		)
 		(property "Sheetfile" "MCU.kicad_sch"
-			(at 74.93 76.7846 0)
+			(at 74.93 67.8946 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left top)
 			)
+		)
+		(pin "SPI1_MISO" input
+			(at 74.93 64.77 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "218109d8-38dd-4aa4-8bca-f1b7df903356")
+		)
+		(pin "SPI1_CLK" output
+			(at 74.93 57.15 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "cfbb7964-6903-4ce4-afad-09435629d5d8")
+		)
+		(pin "LED_CE" output
+			(at 74.93 46.99 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "8365590e-e9e7-4719-8b5e-7873ac1336c2")
+		)
+		(pin "CE" output
+			(at 74.93 59.69 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "396b4c4e-4b07-4212-9a78-fe462a7c3e6f")
+		)
+		(pin "PL" output
+			(at 74.93 62.23 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "7ecbb59f-b709-4466-b83c-68e041affeeb")
 		)
 		(instances
 			(project "KeyBoard"
@@ -124,46 +224,7 @@
 		)
 	)
 	(sheet
-		(at 43.18 63.5)
-		(size 15.24 12.7)
-		(fields_autoplaced yes)
-		(stroke
-			(width 0.1524)
-			(type solid)
-			(color 52 0 255 1)
-		)
-		(fill
-			(color 255 255 255 1.0000)
-		)
-		(uuid "b840dd17-eb70-42c2-8bea-1b5a7637e16c")
-		(property "Sheetname" "Device"
-			(at 43.18 62.7884 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Sheetfile" "Device.kicad_sch"
-			(at 43.18 76.7846 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(instances
-			(project "KeyBoard"
-				(path "/241a990a-4472-4769-ab02-cee073c97173"
-					(page "5")
-				)
-			)
-		)
-	)
-	(sheet
-		(at 43.18 35.56)
+		(at 48.26 44.45)
 		(size 15.24 5.08)
 		(fields_autoplaced yes)
 		(stroke
@@ -176,7 +237,7 @@
 		)
 		(uuid "c69efa6e-61e7-4a30-91d1-43cd750b7d81")
 		(property "Sheetname" "LED"
-			(at 43.18 34.8484 0)
+			(at 48.26 43.7384 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -185,7 +246,7 @@
 			)
 		)
 		(property "Sheetfile" "LED.kicad_sch"
-			(at 43.18 41.2246 0)
+			(at 48.26 50.1146 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -194,7 +255,7 @@
 			)
 		)
 		(pin "LED_CE" input
-			(at 58.42 38.1 0)
+			(at 63.5 46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)

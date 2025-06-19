@@ -7,6 +7,26 @@
 	(lib_symbols)
 	(wire
 		(pts
+			(xy 63.5 73.66) (xy 74.93 73.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2c798d71-3440-4277-90ee-5a38e87ed8f4")
+	)
+	(wire
+		(pts
+			(xy 63.5 80.01) (xy 74.93 80.01)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "32e0d6a2-8020-4db0-8a78-32899df809f9")
+	)
+	(wire
+		(pts
 			(xy 63.5 57.15) (xy 74.93 57.15)
 		)
 		(stroke
@@ -54,6 +74,26 @@
 			(type default)
 		)
 		(uuid "b31814b6-7998-4a17-8b1c-be7da4900cf1")
+	)
+	(wire
+		(pts
+			(xy 63.5 74.93) (xy 74.93 74.93)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cccba76e-f790-4d31-a3af-ccb68a47a841")
+	)
+	(wire
+		(pts
+			(xy 63.5 78.74) (xy 74.93 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d8e3528d-6ca4-4b48-aef8-affec5939094")
 	)
 	(sheet
 		(at 48.26 54.61)
@@ -136,7 +176,7 @@
 	)
 	(sheet
 		(at 74.93 44.45)
-		(size 16.51 22.86)
+		(size 16.51 38.1)
 		(fields_autoplaced yes)
 		(stroke
 			(width 0.1524)
@@ -157,7 +197,7 @@
 			)
 		)
 		(property "Sheetfile" "MCU.kicad_sch"
-			(at 74.93 67.8946 0)
+			(at 74.93 83.1346 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -215,10 +255,129 @@
 			)
 			(uuid "7ecbb59f-b709-4466-b83c-68e041affeeb")
 		)
+		(pin "USB_PORT_P" bidirectional
+			(at 74.93 73.66 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "47f46071-239d-4d03-bab6-e7011cbdbb20")
+		)
+		(pin "USB_PORT_N" bidirectional
+			(at 74.93 74.93 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "7367d5fe-ac5d-4ed4-a295-2d7cfd86a094")
+		)
+		(pin "UART_RX" input
+			(at 74.93 78.74 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "50c722d9-038f-41f4-bb31-b64c0ad02196")
+		)
+		(pin "UART_TX" output
+			(at 74.93 80.01 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "ae033d40-cd37-4519-8e9c-4d499301ac09")
+		)
 		(instances
 			(project "KeyBoard"
 				(path "/241a990a-4472-4769-ab02-cee073c97173"
 					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 48.26 72.39)
+		(size 15.24 10.16)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+			(color 52 0 255 1)
+		)
+		(fill
+			(color 255 255 255 1.0000)
+		)
+		(uuid "c39d9c37-d812-43b2-94b9-ccc1b0cc2982")
+		(property "Sheetname" "Device"
+			(at 48.26 71.6784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Device.kicad_sch"
+			(at 48.26 83.1346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "USB_DM_1" bidirectional
+			(at 63.5 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "816e7574-472d-4d35-a7de-57e4c4ee868e")
+		)
+		(pin "USB_DP_1" bidirectional
+			(at 63.5 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "22477fb0-4520-4096-85dd-e1aeecdd1058")
+		)
+		(pin "UART_RX" output
+			(at 63.5 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "d671cb97-37ca-454f-8d15-8234b5350d49")
+		)
+		(pin "UART_TX" input
+			(at 63.5 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "9e04399e-e378-49ca-b56f-b1b024e7318b")
+		)
+		(instances
+			(project "KeyBoard"
+				(path "/241a990a-4472-4769-ab02-cee073c97173"
+					(page "5")
 				)
 			)
 		)

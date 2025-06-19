@@ -1,4 +1,4 @@
-24813799986637058
+24829552796296468
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -99428,6 +99428,13 @@ CONN-SMD_2P-P1.25_053398-0X71
 4
 4
 persional_library
+CONN-SMD_2P-P1.25_XUNPU_WAFER-MX1.25-2PWB
+
+
+0
+4
+4
+persional_library
 CONN-SMD_2P-P2.00_DEALON_PH-2PS
 
 
@@ -99561,6 +99568,13 @@ ELQFP128-V3S-LJN
 129
 129
 persional_library
+ESOP-8_L4.9-W3.9-P1.27-LS6.0-BL-EP
+
+
+0
+9
+9
+persional_library
 FBGA-153_L13.0-W11.5
 
 
@@ -99595,6 +99609,13 @@ FC-135R_L3.2-W1.5
 0
 2
 2
+persional_library
+FPC-SMD_24P-P0.50_SHOU-HAN_XGXJ-H2.0
+
+
+0
+26
+26
 persional_library
 FPC-SMD_40P-P0.50_FPC-05F-40PH20
 
@@ -99632,6 +99653,13 @@ HDR-TH_4P-P2.54-V-M-R2-C2-S2.54
 4
 persional_library
 HDR-TH_6P-P2.54-V-M-R2-C3-S2.54
+
+
+0
+6
+6
+persional_library
+HDR-TH_6P-P2.54-V-M-R2-C3-S2.54-1
 
 
 0
@@ -99778,6 +99806,13 @@ OSC-SMD_4P-L3.2-W2.5-BL
 4
 4
 persional_library
+POWERTDFN-8_L3.1-W3.1-P0.65-LS3.3-BL
+
+
+0
+9
+8
+persional_library
 QFN-20_L3.0-W3.0-P0.50-BL-EP1.7
 
 
@@ -99862,6 +99897,13 @@ SOD-123_L2.7-W1.6-LS3.7-RD
 2
 2
 persional_library
+SOD-323_L1.8-W1.3-LS2.5-FD
+
+
+0
+2
+2
+persional_library
 SOD-323_L1.8-W1.3-LS2.5-NSK
 
 
@@ -99897,6 +99939,13 @@ SOP-8_L4.9-W3.9-P1.27-LS6.0-BL
 8
 8
 persional_library
+SOP-16
+
+
+0
+16
+16
+persional_library
 SOP-16_L10.0-W3.9-P1.27-LS6.0-BL
 
 
@@ -99905,6 +99954,13 @@ SOP-16_L10.0-W3.9-P1.27-LS6.0-BL
 16
 persional_library
 SOT-23-3_L2.9-W1.3-P0.95-LS2.4-BR
+
+
+0
+3
+3
+persional_library
+SOT-23-3_L2.9-W1.3-P1.90-LS2.4-BR
 
 
 0
@@ -100008,6 +100064,13 @@ USB-C-SMD_TYPE-C-6PIN-2MD-073
 0
 16
 14
+persional_library
+USB-C-SMD_TYPE-C-USB-17
+
+
+0
+16
+13
 persional_library
 USB-C-SMD_TYPEC-304-BCP16
 

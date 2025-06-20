@@ -2798,16 +2798,6 @@
 	)
 	(wire
 		(pts
-			(xy 265.43 115.57) (xy 270.51 115.57)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "16b85122-00f1-415b-8780-201bf4deede6")
-	)
-	(wire
-		(pts
 			(xy 60.96 105.41) (xy 66.04 105.41)
 		)
 		(stroke
@@ -2988,6 +2978,16 @@
 	)
 	(wire
 		(pts
+			(xy 265.43 115.57) (xy 270.51 115.57)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "88e73d0f-a29d-44bb-b845-5a8ce25fa080")
+	)
+	(wire
+		(pts
 			(xy 175.26 83.82) (xy 181.61 83.82)
 		)
 		(stroke
@@ -3148,6 +3148,16 @@
 	)
 	(wire
 		(pts
+			(xy 265.43 118.11) (xy 270.51 118.11)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e66a6763-7735-439b-8998-2c32ec36e254")
+	)
+	(wire
+		(pts
 			(xy 175.26 68.58) (xy 181.61 68.58)
 		)
 		(stroke
@@ -3178,16 +3188,6 @@
 	)
 	(wire
 		(pts
-			(xy 265.43 118.11) (xy 270.51 118.11)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f41bee6a-379c-4890-81ef-65acb9c92c59")
-	)
-	(wire
-		(pts
 			(xy 104.14 151.13) (xy 113.03 151.13)
 		)
 		(stroke
@@ -3215,6 +3215,16 @@
 			(type default)
 		)
 		(uuid "fe994401-572a-444d-a1a1-4f2ce848f5f8")
+	)
+	(label "SWCLK"
+		(at 265.43 118.11 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "0cb40e03-8ecd-45e1-b8be-46842bd02d8b")
 	)
 	(label "USB_D_N"
 		(at 175.26 68.58 0)
@@ -3285,16 +3295,6 @@
 			(justify right bottom)
 		)
 		(uuid "5ede4660-a535-4eb7-8072-ebb53ba70b39")
-	)
-	(label "SWDIO"
-		(at 265.43 118.11 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "617af383-e2ac-4c63-a783-7680e046e8d0")
 	)
 	(label "NRST"
 		(at 68.58 43.18 180)
@@ -3416,6 +3416,16 @@
 		)
 		(uuid "b634b128-e8a9-4851-9394-7bc6ea3e8cb6")
 	)
+	(label "SWDIO"
+		(at 265.43 115.57 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "b7e74048-2f3e-4ff7-af0b-c8f51bd2c568")
+	)
 	(label "OSC_IN"
 		(at 124.46 116.84 0)
 		(effects
@@ -3465,16 +3475,6 @@
 			(justify left bottom)
 		)
 		(uuid "dc1be65e-8b68-4f80-8246-3517b19ce20e")
-	)
-	(label "SWCLK"
-		(at 265.43 115.57 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "e5520fd9-287b-42d6-b84a-3d5bb45077b7")
 	)
 	(label "UART_TX"
 		(at 175.26 73.66 0)

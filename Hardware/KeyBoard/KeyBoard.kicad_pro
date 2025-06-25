@@ -51,7 +51,13 @@
           "min_clearance": 0.5
         }
       },
-      "diff_pair_dimensions": [],
+      "diff_pair_dimensions": [
+        {
+          "gap": 0.0,
+          "via_gap": 0.0,
+          "width": 0.0
+        }
+      ],
       "drc_exclusions": [],
       "meta": {
         "version": 2
@@ -171,7 +177,13 @@
           "td_width_to_size_filter_ratio": 0.9
         }
       ],
-      "track_widths": [],
+      "track_widths": [
+        0.0,
+        0.1778,
+        0.254,
+        0.381,
+        0.508
+      ],
       "tuning_pattern_settings": {
         "diff_pair_defaults": {
           "corner_radius_percentage": 80,
@@ -192,13 +204,22 @@
         "single_track_defaults": {
           "corner_radius_percentage": 80,
           "corner_style": 1,
-          "max_amplitude": 1.0,
-          "min_amplitude": 0.2,
+          "max_amplitude": 1.016,
+          "min_amplitude": 0.1524,
           "single_sided": false,
-          "spacing": 0.6
+          "spacing": 0.508
         }
       },
-      "via_dimensions": [],
+      "via_dimensions": [
+        {
+          "diameter": 0.0,
+          "drill": 0.0
+        },
+        {
+          "diameter": 0.5,
+          "drill": 0.3
+        }
+      ],
       "zones_allow_external_fillets": false
     },
     "ipc2581": {
@@ -438,7 +459,7 @@
     "classes": [
       {
         "bus_width": 12,
-        "clearance": 0.2,
+        "clearance": 0.1778,
         "diff_pair_gap": 0.25,
         "diff_pair_via_gap": 0.25,
         "diff_pair_width": 0.2,
@@ -448,8 +469,8 @@
         "name": "Default",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
-        "track_width": 0.2,
-        "via_diameter": 0.6,
+        "track_width": 0.1778,
+        "via_diameter": 0.5,
         "via_drill": 0.3,
         "wire_width": 6
       }
@@ -457,7 +478,106 @@
     "meta": {
       "version": 3
     },
-    "net_colors": null,
+    "net_colors": {
+      "/Device/USB_1_DN": "rgb(255, 0, 166)",
+      "/Device/USB_1_DP": "rgb(255, 0, 166)",
+      "/Device/USB_2_DN": "rgb(255, 0, 166)",
+      "/Device/USB_2_DP": "rgb(255, 0, 166)",
+      "/Device/USB_3_DN": "rgb(255, 0, 166)",
+      "/Device/USB_3_DP": "rgb(255, 0, 166)",
+      "/Device/USB_4_DN": "rgb(255, 0, 166)",
+      "/Device/USB_4_DP": "rgb(255, 0, 166)",
+      "/Device/USB_HUB_DN": "rgb(255, 0, 166)",
+      "/Device/USB_HUB_DP": "rgb(255, 0, 166)",
+      "Net-(U1-D0)": "rgb(42, 255, 0)",
+      "Net-(U1-D1)": "rgb(42, 255, 0)",
+      "Net-(U1-D2)": "rgb(42, 255, 0)",
+      "Net-(U1-D3)": "rgb(42, 255, 0)",
+      "Net-(U1-D4)": "rgb(42, 255, 0)",
+      "Net-(U1-D5)": "rgb(42, 255, 0)",
+      "Net-(U1-D6)": "rgb(42, 255, 0)",
+      "Net-(U1-D7)": "rgb(42, 255, 0)",
+      "Net-(U10-D0)": "rgb(255, 245, 46)",
+      "Net-(U10-D1)": "rgb(255, 245, 46)",
+      "Net-(U10-D2)": "rgb(255, 245, 46)",
+      "Net-(U10-D3)": "rgb(255, 245, 46)",
+      "Net-(U10-D4)": "rgb(255, 245, 46)",
+      "Net-(U10-D5)": "rgb(255, 245, 46)",
+      "Net-(U10-D6)": "rgb(255, 245, 46)",
+      "Net-(U10-D7)": "rgb(255, 245, 46)",
+      "Net-(U11-D0)": "rgb(0, 255, 253)",
+      "Net-(U11-D1)": "rgb(0, 255, 253)",
+      "Net-(U11-D2)": "rgb(0, 255, 253)",
+      "Net-(U11-D3)": "rgb(0, 255, 253)",
+      "Net-(U11-D4)": "rgb(0, 255, 253)",
+      "Net-(U11-D5)": "rgb(0, 255, 253)",
+      "Net-(U11-D6)": "rgb(0, 255, 253)",
+      "Net-(U11-D7)": "rgb(0, 255, 253)",
+      "Net-(U2-D0)": "rgb(255, 0, 23)",
+      "Net-(U2-D1)": "rgb(255, 0, 23)",
+      "Net-(U2-D2)": "rgb(255, 0, 23)",
+      "Net-(U2-D3)": "rgb(255, 0, 23)",
+      "Net-(U2-D4)": "rgb(255, 0, 23)",
+      "Net-(U2-D5)": "rgb(255, 0, 23)",
+      "Net-(U2-D6)": "rgb(255, 0, 23)",
+      "Net-(U2-D7)": "rgb(255, 0, 23)",
+      "Net-(U3-D0)": "rgb(201, 0, 255)",
+      "Net-(U3-D1)": "rgb(201, 0, 255)",
+      "Net-(U3-D2)": "rgb(201, 0, 255)",
+      "Net-(U3-D3)": "rgb(201, 0, 255)",
+      "Net-(U3-D4)": "rgb(201, 0, 255)",
+      "Net-(U3-D5)": "rgb(201, 0, 255)",
+      "Net-(U3-D6)": "rgb(201, 0, 255)",
+      "Net-(U3-D7)": "rgb(201, 0, 255)",
+      "Net-(U4-D0)": "rgb(255, 132, 0)",
+      "Net-(U4-D1)": "rgb(255, 132, 0)",
+      "Net-(U4-D2)": "rgb(255, 132, 0)",
+      "Net-(U4-D3)": "rgb(255, 132, 0)",
+      "Net-(U4-D4)": "rgb(255, 132, 0)",
+      "Net-(U4-D5)": "rgb(255, 132, 0)",
+      "Net-(U4-D6)": "rgb(255, 132, 0)",
+      "Net-(U4-D7)": "rgb(255, 132, 0)",
+      "Net-(U5-D0)": "rgb(255, 167, 243)",
+      "Net-(U5-D1)": "rgb(255, 167, 243)",
+      "Net-(U5-D2)": "rgb(255, 167, 243)",
+      "Net-(U5-D3)": "rgb(255, 167, 243)",
+      "Net-(U5-D4)": "rgb(255, 167, 243)",
+      "Net-(U5-D5)": "rgb(255, 167, 243)",
+      "Net-(U5-D6)": "rgb(255, 167, 243)",
+      "Net-(U5-D7)": "rgb(255, 167, 243)",
+      "Net-(U6-D0)": "rgb(0, 0, 0)",
+      "Net-(U6-D1)": "rgb(0, 0, 0)",
+      "Net-(U6-D2)": "rgb(0, 0, 0)",
+      "Net-(U6-D3)": "rgb(0, 0, 0)",
+      "Net-(U6-D4)": "rgb(0, 0, 0)",
+      "Net-(U6-D5)": "rgb(0, 0, 0)",
+      "Net-(U6-D6)": "rgb(0, 0, 0)",
+      "Net-(U6-D7)": "rgb(0, 0, 0)",
+      "Net-(U7-D0)": "rgb(128, 255, 242)",
+      "Net-(U7-D1)": "rgb(128, 255, 242)",
+      "Net-(U7-D2)": "rgb(128, 255, 242)",
+      "Net-(U7-D3)": "rgb(128, 255, 242)",
+      "Net-(U7-D4)": "rgb(128, 255, 242)",
+      "Net-(U7-D5)": "rgb(128, 255, 242)",
+      "Net-(U7-D6)": "rgb(128, 255, 242)",
+      "Net-(U7-D7)": "rgb(128, 255, 242)",
+      "Net-(U8-D0)": "rgb(255, 254, 131)",
+      "Net-(U8-D1)": "rgb(255, 254, 131)",
+      "Net-(U8-D2)": "rgb(255, 254, 131)",
+      "Net-(U8-D3)": "rgb(255, 254, 131)",
+      "Net-(U8-D4)": "rgb(255, 254, 131)",
+      "Net-(U8-D5)": "rgb(255, 254, 131)",
+      "Net-(U8-D6)": "rgb(255, 254, 131)",
+      "Net-(U8-D7)": "rgb(255, 254, 131)",
+      "Net-(U9-D0)": "rgb(255, 130, 244)",
+      "Net-(U9-D1)": "rgb(255, 130, 244)",
+      "Net-(U9-D2)": "rgb(255, 130, 244)",
+      "Net-(U9-D3)": "rgb(255, 130, 244)",
+      "Net-(U9-D4)": "rgb(255, 130, 244)",
+      "Net-(U9-D5)": "rgb(255, 130, 244)",
+      "Net-(U9-D6)": "rgb(255, 130, 244)",
+      "Net-(U9-D7)": "rgb(255, 130, 244)"
+    },
     "netclass_assignments": null,
     "netclass_patterns": []
   },

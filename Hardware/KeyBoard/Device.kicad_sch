@@ -3792,17 +3792,6 @@
 		)
 		(uuid "f85da638-bc2a-497e-95c4-d7c3132723d8")
 	)
-	(hierarchical_label "UART_TX"
-		(shape input)
-		(at 107.95 116.84 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "215ede82-812c-4dad-abae-7622d2e12619")
-	)
 	(hierarchical_label "USB_DP"
 		(shape bidirectional)
 		(at 99.06 29.21 180)
@@ -3813,6 +3802,17 @@
 			(justify right)
 		)
 		(uuid "37efbbdb-3998-4ad2-ab47-21b3d9e69fb4")
+	)
+	(hierarchical_label "UART_TX"
+		(shape input)
+		(at 107.95 119.38 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "3fb74bb3-a6d9-4b7e-ad7f-5588d84e957b")
 	)
 	(hierarchical_label "USB_DN"
 		(shape bidirectional)
@@ -3827,14 +3827,14 @@
 	)
 	(hierarchical_label "UART_RX"
 		(shape output)
-		(at 107.95 119.38 180)
+		(at 107.95 116.84 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify right)
 		)
-		(uuid "66a5c927-95d4-4a4f-aaf6-c5dad87cd802")
+		(uuid "976d80b9-316b-47a6-a08d-a69f2e73d6e9")
 	)
 	(symbol
 		(lib_id "power:+5V")

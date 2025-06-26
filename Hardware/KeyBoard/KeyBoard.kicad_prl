@@ -6,8 +6,6 @@
     "hidden_netclasses": [],
     "hidden_nets": [
       "GND",
-      "+5V",
-      "+3V3",
       "VBUS"
     ],
     "high_contrast_mode": 0,

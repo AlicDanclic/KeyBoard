@@ -1,0 +1,11 @@
+06-26 12:22:25 beantools.length_stats.action_length_stats 308:Plugin executed on: 'win32'
+06-26 12:22:25 beantools.length_stats.action_length_stats 309:Plugin executed with python version: '3.11.5 (main, Dec 24 2024, 05:27:06) [MSC v.1942 64 bit (AMD64)]'
+06-26 12:22:25 beantools.length_stats.action_length_stats 310:KiCad build version: 8.0.8
+06-26 12:22:25 beantools.length_stats.action_length_stats 311:Length stats plugin version: 30 started
+06-26 12:22:26 STDERR 354:D:\KiCAD\share\kicad\scripting\plugins\beantools\length_stats\action_length_stats.py:55: wxPyDeprecationWarning: Call to deprecated item. Use SetSizeHints instead.
+06-26 12:22:26 STDERR 354:  self.SetSizeHintsSz(sz1, sz2)
+06-26 12:22:26 beantools.length_stats.action_length_stats 210:Sorting list
+06-26 12:22:26 beantools.length_stats.action_length_stats 95:Length stats gui initialized
+06-26 12:22:26 beantools.length_stats.action_length_stats 96:Nets for stats are;
+[]
+06-26 12:22:26 beantools.length_stats.action_length_stats 134:Refreshing net lengths

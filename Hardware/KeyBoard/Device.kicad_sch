@@ -4761,74 +4761,6 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 160.02 29.21 90)
-		(mirror x)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "31c5c0b0-b2a2-47a3-a654-29efbdcd7dcd")
-		(property "Reference" "#PWR0136"
-			(at 166.37 29.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 163.83 29.21 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" ""
-			(at 160.02 29.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 160.02 29.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 160.02 29.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "2f667192-d474-4a1e-8ad1-f17f7708659f")
-		)
-		(instances
-			(project "KeyBoard"
-				(path "/241a990a-4472-4769-ab02-cee073c97173/c39d9c37-d812-43b2-94b9-ccc1b0cc2982"
-					(reference "#PWR0136")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
 		(at 63.5 44.45 90)
 		(mirror x)
 		(unit 1)
@@ -8764,6 +8696,73 @@
 			(project "KeyBoard"
 				(path "/241a990a-4472-4769-ab02-cee073c97173/c39d9c37-d812-43b2-94b9-ccc1b0cc2982"
 					(reference "#PWR0134")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:VBUS")
+		(at 160.02 29.21 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "f8911874-2aeb-4a98-b17f-af8ca5342d50")
+		(property "Reference" "#PWR0136"
+			(at 156.21 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "VBUS"
+			(at 163.83 29.21 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 160.02 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 160.02 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"VBUS\""
+			(at 160.02 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "175c3b4f-5342-4784-bcc8-fd22086c5811")
+		)
+		(instances
+			(project "KeyBoard"
+				(path "/241a990a-4472-4769-ab02-cee073c97173/c39d9c37-d812-43b2-94b9-ccc1b0cc2982"
+					(reference "#PWR0136")
 					(unit 1)
 				)
 			)

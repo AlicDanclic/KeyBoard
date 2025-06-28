@@ -678,6 +678,16 @@
 	)
 	(wire
 		(pts
+			(xy 182.88 177.8) (xy 182.88 181.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "15ac5cb5-73d4-4768-9844-e77b31af990d")
+	)
+	(wire
+		(pts
 			(xy 162.56 85.09) (xy 162.56 88.9)
 		)
 		(stroke
@@ -848,6 +858,16 @@
 	)
 	(wire
 		(pts
+			(xy 162.56 184.15) (xy 162.56 187.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2ec401c2-3090-4d7b-a08e-c49639bb8fd0")
+	)
+	(wire
+		(pts
 			(xy 190.5 119.38) (xy 190.5 123.19)
 		)
 		(stroke
@@ -988,6 +1008,16 @@
 	)
 	(wire
 		(pts
+			(xy 182.88 161.29) (xy 182.88 157.48)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "41451641-5edd-4c27-b602-2da2a90db374")
+	)
+	(wire
+		(pts
 			(xy 106.68 146.05) (xy 127 146.05)
 		)
 		(stroke
@@ -1025,6 +1055,16 @@
 			(type default)
 		)
 		(uuid "44baca26-6ac3-4df6-8a74-246be44e01ab")
+	)
+	(wire
+		(pts
+			(xy 162.56 163.83) (xy 162.56 167.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "45ec1a38-65da-4bdd-95ea-4704986e613d")
 	)
 	(wire
 		(pts
@@ -1195,6 +1235,16 @@
 			(type default)
 		)
 		(uuid "57cc876e-1500-42ea-8f62-485b5e04e829")
+	)
+	(wire
+		(pts
+			(xy 162.56 167.64) (xy 182.88 167.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5abd22ba-ce98-48a7-b82c-9431d3c808c1")
 	)
 	(wire
 		(pts
@@ -1598,6 +1648,16 @@
 	)
 	(wire
 		(pts
+			(xy 162.56 187.96) (xy 165.1 187.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "84ef84a9-392f-4933-8e97-eedcfb98bbd5")
+	)
+	(wire
+		(pts
 			(xy 127 134.62) (xy 127 139.7)
 		)
 		(stroke
@@ -1688,7 +1748,7 @@
 	)
 	(wire
 		(pts
-			(xy 43.18 22.86) (xy 43.18 25.4)
+			(xy 43.18 21.59) (xy 43.18 25.4)
 		)
 		(stroke
 			(width 0)
@@ -1718,7 +1778,7 @@
 	)
 	(wire
 		(pts
-			(xy 40.64 22.86) (xy 43.18 22.86)
+			(xy 40.64 21.59) (xy 43.18 21.59)
 		)
 		(stroke
 			(width 0)
@@ -1855,6 +1915,16 @@
 			(type default)
 		)
 		(uuid "9771a715-3bb6-4223-b7d6-21689c6f7ef6")
+	)
+	(wire
+		(pts
+			(xy 162.56 177.8) (xy 182.88 177.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "97753953-d83c-4200-997c-199c53342ce7")
 	)
 	(wire
 		(pts
@@ -2155,6 +2225,16 @@
 			(type default)
 		)
 		(uuid "bc06dd73-a8f3-4fd7-be63-94ce2c3bc556")
+	)
+	(wire
+		(pts
+			(xy 162.56 173.99) (xy 162.56 177.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bc769e42-257a-4004-a16c-e2e871717710")
 	)
 	(wire
 		(pts
@@ -2598,16 +2678,6 @@
 	)
 	(wire
 		(pts
-			(xy 40.64 21.59) (xy 40.64 22.86)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e565d526-4b9a-4f64-9b0b-4d7c6b8ffe04")
-	)
-	(wire
-		(pts
 			(xy 25.4 157.48) (xy 22.86 157.48)
 		)
 		(stroke
@@ -2678,7 +2748,7 @@
 	)
 	(wire
 		(pts
-			(xy 165.1 157.48) (xy 162.56 157.48)
+			(xy 162.56 157.48) (xy 182.88 157.48)
 		)
 		(stroke
 			(width 0)
@@ -2815,6 +2885,16 @@
 			(type default)
 		)
 		(uuid "f2afedd7-9dfd-4ccf-a64f-d4922d28fc26")
+	)
+	(wire
+		(pts
+			(xy 182.88 167.64) (xy 182.88 171.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f2b33837-b01f-48cc-b59a-45e8df4684df")
 	)
 	(wire
 		(pts
@@ -3082,7 +3162,7 @@
 	)
 	(global_label "LED6"
 		(shape output)
-		(at 165.1 157.48 0)
+		(at 165.1 187.96 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3090,9 +3170,9 @@
 			)
 			(justify left)
 		)
-		(uuid "9806a50b-075d-4247-9d39-ae76e3fe981a")
+		(uuid "9790449f-3bca-49f9-bf1a-fc680a7bd097")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 171.4163 157.48 0)
+			(at 171.4163 187.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3818,6 +3898,117 @@
 			(project "KeyBoard"
 				(path "/241a990a-4472-4769-ab02-cee073c97173/c69efa6e-61e7-4a30-91d1-43cd750b7d81"
 					(reference "#PWR060")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "persional_library:YO-WS2812B-3528反贴")
+		(at 172.72 172.72 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "0c7f28bb-03f3-4fbf-91ca-06600cc92044")
+		(property "Reference" "LED84"
+			(at 174.752 172.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "~"
+			(at 171.45 177.8 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "persional_library:LED-SMD_L3.2-W2.8_YO-WS2812B-3528"
+			(at 172.72 172.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 172.72 172.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 172.72 172.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part" "Yo-WS2812B-3528反贴雾状"
+			(at 172.72 172.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "null"
+			(at 172.72 172.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier Part" "C9900003682"
+			(at 172.72 172.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier" "LCSC"
+			(at 172.72 172.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "f25d02a4-3556-4a8c-a608-7fc096fe4147")
+		)
+		(pin "4"
+			(uuid "b3b3740a-e1d9-4a84-93dd-13a84bb79586")
+		)
+		(pin "1"
+			(uuid "a4737426-a880-42a1-93c5-6a0c252a1e66")
+		)
+		(pin "2"
+			(uuid "fd80dd85-5556-489d-a559-ac6a93ea21da")
+		)
+		(instances
+			(project "KeyBoard"
+				(path "/241a990a-4472-4769-ab02-cee073c97173/c69efa6e-61e7-4a30-91d1-43cd750b7d81"
+					(reference "LED84")
 					(unit 1)
 				)
 			)
@@ -6419,6 +6610,73 @@
 		)
 	)
 	(symbol
+		(lib_id "power:+5V")
+		(at 162.56 161.29 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "22920c23-c381-4f93-bd25-e94d73ecbefa")
+		(property "Reference" "#PWR0242"
+			(at 166.37 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+5V"
+			(at 158.75 161.29 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 162.56 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 162.56 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+5V\""
+			(at 162.56 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "33aa3bf0-7ea1-4a99-a765-c1d97e432c00")
+		)
+		(instances
+			(project "KeyBoard"
+				(path "/241a990a-4472-4769-ab02-cee073c97173/c69efa6e-61e7-4a30-91d1-43cd750b7d81"
+					(reference "#PWR0242")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 210.82 85.09 90)
 		(unit 1)
@@ -7904,6 +8162,72 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 182.88 173.99 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "386ad6e6-7e95-4235-a695-cfd6f172d9b7")
+		(property "Reference" "#PWR0240"
+			(at 189.23 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 185.928 173.99 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 182.88 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 182.88 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 182.88 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "aa4891c7-39ee-4eb1-adfa-2448d0da7567")
+		)
+		(instances
+			(project "KeyBoard"
+				(path "/241a990a-4472-4769-ab02-cee073c97173/c69efa6e-61e7-4a30-91d1-43cd750b7d81"
+					(reference "#PWR0240")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "persional_library:YO-WS2812B-3528反贴")
 		(at 200.66 129.54 0)
 		(unit 1)
@@ -8320,6 +8644,117 @@
 			(project "KeyBoard"
 				(path "/241a990a-4472-4769-ab02-cee073c97173/c69efa6e-61e7-4a30-91d1-43cd750b7d81"
 					(reference "#PWR0212")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "persional_library:YO-WS2812B-3528反贴")
+		(at 172.72 182.88 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "42121565-60f7-43f0-aba7-106777f14f12")
+		(property "Reference" "LED85"
+			(at 174.752 182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "~"
+			(at 171.45 187.96 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "persional_library:LED-SMD_L3.2-W2.8_YO-WS2812B-3528"
+			(at 172.72 182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 172.72 182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 172.72 182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part" "Yo-WS2812B-3528反贴雾状"
+			(at 172.72 182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "null"
+			(at 172.72 182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier Part" "C9900003682"
+			(at 172.72 182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier" "LCSC"
+			(at 172.72 182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "e6cb5697-9c6d-4ece-b3da-4eb261fab072")
+		)
+		(pin "4"
+			(uuid "49276b81-53cf-40ed-a281-8db3655c9823")
+		)
+		(pin "1"
+			(uuid "a4dc110a-ab41-4db8-8c17-38bfdda304ed")
+		)
+		(pin "2"
+			(uuid "274cbb99-df70-4592-aee4-38162e758861")
+		)
+		(instances
+			(project "KeyBoard"
+				(path "/241a990a-4472-4769-ab02-cee073c97173/c69efa6e-61e7-4a30-91d1-43cd750b7d81"
+					(reference "LED85")
 					(unit 1)
 				)
 			)
@@ -14030,6 +14465,117 @@
 	)
 	(symbol
 		(lib_id "persional_library:YO-WS2812B-3528反贴")
+		(at 172.72 162.56 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "932032c9-ecda-4fc2-8bc7-8a22b23f794c")
+		(property "Reference" "LED83"
+			(at 174.752 162.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "~"
+			(at 171.45 167.64 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "persional_library:LED-SMD_L3.2-W2.8_YO-WS2812B-3528"
+			(at 172.72 162.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 172.72 162.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 172.72 162.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part" "Yo-WS2812B-3528反贴雾状"
+			(at 172.72 162.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "null"
+			(at 172.72 162.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier Part" "C9900003682"
+			(at 172.72 162.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier" "LCSC"
+			(at 172.72 162.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "43da5557-eb36-4a01-8d84-a2396118f185")
+		)
+		(pin "4"
+			(uuid "ab16e59c-cbcc-4c77-beae-a627878adcaa")
+		)
+		(pin "1"
+			(uuid "32a07c6e-8323-4826-8e5c-4f53381571a8")
+		)
+		(pin "2"
+			(uuid "085376bb-1cc3-4910-8f48-5a9976498305")
+		)
+		(instances
+			(project "KeyBoard"
+				(path "/241a990a-4472-4769-ab02-cee073c97173/c69efa6e-61e7-4a30-91d1-43cd750b7d81"
+					(reference "LED83")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "persional_library:YO-WS2812B-3528反贴")
 		(at 172.72 129.54 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -16026,6 +16572,72 @@
 	)
 	(symbol
 		(lib_id "power:GND")
+		(at 182.88 184.15 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "aafd2aa0-134d-4bc0-b0d0-aeb5c7cdfc16")
+		(property "Reference" "#PWR0239"
+			(at 189.23 184.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 185.928 184.15 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 182.88 184.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 182.88 184.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 182.88 184.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "62c368d0-2532-431a-be81-95aa253a9c09")
+		)
+		(instances
+			(project "KeyBoard"
+				(path "/241a990a-4472-4769-ab02-cee073c97173/c69efa6e-61e7-4a30-91d1-43cd750b7d81"
+					(reference "#PWR0239")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
 		(at 127 62.23 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -16973,6 +17585,73 @@
 			(project "KeyBoard"
 				(path "/241a990a-4472-4769-ab02-cee073c97173/c69efa6e-61e7-4a30-91d1-43cd750b7d81"
 					(reference "#PWR0145")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+5V")
+		(at 162.56 181.61 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "b9535525-fa25-426a-a23d-f7f997fb32c6")
+		(property "Reference" "#PWR0244"
+			(at 166.37 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+5V"
+			(at 158.75 181.61 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 162.56 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 162.56 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+5V\""
+			(at 162.56 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "c6d5ef1d-a51c-4d57-9beb-72daa9809fb4")
+		)
+		(instances
+			(project "KeyBoard"
+				(path "/241a990a-4472-4769-ab02-cee073c97173/c69efa6e-61e7-4a30-91d1-43cd750b7d81"
+					(reference "#PWR0244")
 					(unit 1)
 				)
 			)
@@ -18618,6 +19297,73 @@
 	)
 	(symbol
 		(lib_id "power:+5V")
+		(at 162.56 171.45 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "cee35b4e-91ac-4dba-9b33-4e734a405e83")
+		(property "Reference" "#PWR0243"
+			(at 166.37 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+5V"
+			(at 158.75 171.45 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 162.56 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 162.56 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+5V\""
+			(at 162.56 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "bcd0ee64-50a5-455c-8a6f-ceb39d898f77")
+		)
+		(instances
+			(project "KeyBoard"
+				(path "/241a990a-4472-4769-ab02-cee073c97173/c69efa6e-61e7-4a30-91d1-43cd750b7d81"
+					(reference "#PWR0243")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+5V")
 		(at 78.74 151.13 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -19963,6 +20709,72 @@
 			(project "KeyBoard"
 				(path "/241a990a-4472-4769-ab02-cee073c97173/c69efa6e-61e7-4a30-91d1-43cd750b7d81"
 					(reference "LED17")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 182.88 163.83 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "db965342-f513-4450-8b2e-e6d3b9c01635")
+		(property "Reference" "#PWR0241"
+			(at 189.23 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 185.928 163.83 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 182.88 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 182.88 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 182.88 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "f7ed4b7c-a88b-4b27-a207-3b622c9b1d71")
+		)
+		(instances
+			(project "KeyBoard"
+				(path "/241a990a-4472-4769-ab02-cee073c97173/c69efa6e-61e7-4a30-91d1-43cd750b7d81"
+					(reference "#PWR0241")
 					(unit 1)
 				)
 			)

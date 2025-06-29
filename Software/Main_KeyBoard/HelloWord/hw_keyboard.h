@@ -24,7 +24,7 @@ public:
     static const uint8_t IO_NUMBER = 11 * 8; // Used 11 pcs 74HC165
     static const uint8_t KEY_NUMBER = 82;
     static const uint8_t TOUCHPAD_NUMBER = 6;
-    static const uint8_t LED_NUMBER = 104;
+    static const uint8_t LED_NUMBER = 85;
     static const uint16_t KEY_REPORT_SIZE = 1 + 16;
     static const uint16_t RAW_REPORT_SIZE = 1 + 32;
     static const uint16_t HID_REPORT_SIZE = KEY_REPORT_SIZE + RAW_REPORT_SIZE;

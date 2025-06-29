@@ -1,4 +1,4 @@
-24829552796296468
+24833059940112367
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -99736,6 +99736,13 @@ LED-SMD_L3.2-W2.8_YO-WS2812B-3528
 4
 4
 persional_library
+LED-SMD_L3.2-W2.8_YO-WS2812B-3528A
+
+
+0
+4
+4
+persional_library
 LED0603-RD
 
 
@@ -100101,6 +100108,13 @@ ind-smd_l2.5-w2.0_swpa252010s1r0mt
 2
 persional_library
 轴座_焊接热插拔_不带灯
+
+
+0
+2
+2
+persional_library
+轴座_焊接热插拔_不带灯A
 
 
 0

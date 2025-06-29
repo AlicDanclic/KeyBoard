@@ -2430,12 +2430,6 @@
 		(uuid "1d1d61f2-5e14-4034-b8e6-e51baa80533e")
 	)
 	(junction
-		(at 60.96 132.08)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "1d784ed7-9195-4068-ac8f-19b6385aebf1")
-	)
-	(junction
 		(at 54.61 49.53)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2550,22 +2544,10 @@
 		(uuid "352c9045-54b6-4df3-98ad-1c3b104901da")
 	)
 	(junction
-		(at 54.61 132.08)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "3afbd75c-e464-4cf7-a19f-28f99bba77d2")
-	)
-	(junction
 		(at 93.98 97.79)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "3b1c0f6c-d856-47b2-9d11-d9434873baae")
-	)
-	(junction
-		(at 29.21 132.08)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "3c1d0c29-40f8-41ca-b560-f0ab6466edc7")
 	)
 	(junction
 		(at 113.03 105.41)
@@ -2664,12 +2646,6 @@
 		(uuid "4eba4bc6-b049-4e40-85c6-5cd96f3e2f43")
 	)
 	(junction
-		(at 35.56 132.08)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "4eebaa58-089d-4fe8-bd41-040b6ddb4c12")
-	)
-	(junction
 		(at 182.88 160.02)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2686,6 +2662,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "50b147e9-e0dd-4eaa-b23e-f27be70a0b45")
+	)
+	(junction
+		(at 67.31 132.08)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "55ef8740-9b66-4e64-a620-ec13d4556b56")
 	)
 	(junction
 		(at 240.03 166.37)
@@ -2754,12 +2736,6 @@
 		(uuid "6249bd03-dd3a-43d5-bf77-2c42c141e60b")
 	)
 	(junction
-		(at 41.91 132.08)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "643d7080-d8cc-4c41-b37f-db919917feb8")
-	)
-	(junction
 		(at 78.74 36.83)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2794,6 +2770,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "6a9aabc4-d667-478c-9e2f-dad4118a9671")
+	)
+	(junction
+		(at 60.96 132.08)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "6c7d6921-5862-4d02-b276-110843b1093c")
 	)
 	(junction
 		(at 41.91 71.12)
@@ -2868,6 +2850,12 @@
 		(uuid "775c7ee8-6bc7-4bc7-8ef6-5cd0680ea372")
 	)
 	(junction
+		(at 41.91 132.08)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "77a09e2e-47c3-4ec9-9c63-52aed765415e")
+	)
+	(junction
 		(at 13.97 176.53)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2908,6 +2896,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "7ba64a7e-376b-4caa-b29b-143bd9c86684")
+	)
+	(junction
+		(at 29.21 132.08)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "7dc199d9-d6be-476a-818f-6f24b041a981")
 	)
 	(junction
 		(at 119.38 171.45)
@@ -3366,6 +3360,12 @@
 		(uuid "be44a08b-42ea-42d9-8511-c81f7fdd6275")
 	)
 	(junction
+		(at 73.66 132.08)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "beebb2f9-8149-4135-b0d8-4af73b13f546")
+	)
+	(junction
 		(at 143.51 113.03)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3382,6 +3382,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "c199f134-4e2b-4733-af75-42f3ffb406b8")
+	)
+	(junction
+		(at 35.56 132.08)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c2f84627-d049-4823-9ab3-ac00098ba940")
 	)
 	(junction
 		(at 78.74 115.57)
@@ -3418,6 +3424,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "c6a12f62-3eeb-428a-80ec-6bab4fbdb0e2")
+	)
+	(junction
+		(at 48.26 132.08)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c777c545-2f28-481b-9db5-a2bd59dfa75e")
 	)
 	(junction
 		(at 13.97 97.79)
@@ -3564,12 +3576,6 @@
 		(uuid "e1d6fd79-e2ba-4644-bf35-18603fa7daac")
 	)
 	(junction
-		(at 48.26 132.08)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "e2f9dc22-d435-41f0-8659-f089fb8fdbd3")
-	)
-	(junction
 		(at 143.51 52.07)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3666,6 +3672,12 @@
 		(uuid "ebb32d4e-0e78-49da-911a-83790c0bae20")
 	)
 	(junction
+		(at 54.61 132.08)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ec1d2a3d-c217-4ffb-8a9c-831150b58788")
+	)
+	(junction
 		(at 132.08 115.57)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3676,12 +3688,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "efe3da41-ff60-4863-8146-f6e81e36124e")
-	)
-	(junction
-		(at 67.31 132.08)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "f0711a13-41b0-4a24-b6d2-fbf57d09e373")
 	)
 	(junction
 		(at 143.51 39.37)
@@ -3742,12 +3748,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "fa128517-54b7-4735-9182-29dce10622d4")
-	)
-	(junction
-		(at 73.66 132.08)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "fb17b92d-ca60-4912-a8ac-5485030c4bde")
 	)
 	(junction
 		(at 78.74 54.61)
@@ -4301,6 +4301,16 @@
 	)
 	(wire
 		(pts
+			(xy 35.56 132.08) (xy 41.91 132.08)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0f2da998-7293-41bb-a060-1ecd98c4ed77")
+	)
+	(wire
+		(pts
 			(xy 54.61 38.1) (xy 53.34 38.1)
 		)
 		(stroke
@@ -4548,6 +4558,16 @@
 			(type default)
 		)
 		(uuid "18033837-df3f-4d46-9e25-77573af556fa")
+	)
+	(wire
+		(pts
+			(xy 60.96 132.08) (xy 67.31 132.08)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "180bdb9b-a0fb-4d11-ac12-b1cca0387dd0")
 	)
 	(wire
 		(pts
@@ -4848,6 +4868,16 @@
 			(type default)
 		)
 		(uuid "27334b7d-573b-45b9-8297-e4812eaf6118")
+	)
+	(wire
+		(pts
+			(xy 67.31 132.08) (xy 73.66 132.08)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "276c0cf2-c70c-4199-a476-9af5bf9b2a70")
 	)
 	(wire
 		(pts
@@ -6051,16 +6081,6 @@
 	)
 	(wire
 		(pts
-			(xy 67.31 132.08) (xy 73.66 132.08)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "52858434-04d2-4169-b455-1af0d60d1bd4")
-	)
-	(wire
-		(pts
 			(xy 26.67 44.45) (xy 48.26 44.45)
 		)
 		(stroke
@@ -6198,16 +6218,6 @@
 			(type default)
 		)
 		(uuid "599c7dc3-71eb-4d74-908c-3eac567d515e")
-	)
-	(wire
-		(pts
-			(xy 54.61 132.08) (xy 60.96 132.08)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "59cdc20d-da70-473b-81c3-e35c21afeb53")
 	)
 	(wire
 		(pts
@@ -6501,16 +6511,6 @@
 	)
 	(wire
 		(pts
-			(xy 35.56 132.08) (xy 41.91 132.08)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "61dc4a30-2838-4ef2-8e34-044104f1af76")
-	)
-	(wire
-		(pts
 			(xy 219.71 110.49) (xy 247.65 110.49)
 		)
 		(stroke
@@ -6678,16 +6678,6 @@
 			(type default)
 		)
 		(uuid "68bc1161-d4ac-41fa-96e4-97020d291d51")
-	)
-	(wire
-		(pts
-			(xy 60.96 132.08) (xy 67.31 132.08)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "68fedc1a-40a8-4b39-828a-bffab366e6a7")
 	)
 	(wire
 		(pts
@@ -7281,6 +7271,16 @@
 	)
 	(wire
 		(pts
+			(xy 41.91 132.08) (xy 48.26 132.08)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "83499d3b-13f2-4b6b-956b-fe27a319cadc")
+	)
+	(wire
+		(pts
 			(xy 50.8 134.62) (xy 50.8 139.7)
 		)
 		(stroke
@@ -7751,6 +7751,16 @@
 	)
 	(wire
 		(pts
+			(xy 54.61 132.08) (xy 60.96 132.08)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9a07c41b-3b72-4a5e-b174-497c16db158e")
+	)
+	(wire
+		(pts
 			(xy 26.67 102.87) (xy 41.91 102.87)
 		)
 		(stroke
@@ -7808,16 +7818,6 @@
 			(type default)
 		)
 		(uuid "9b1d625d-af8b-4a85-aea2-dbef2b6ffae6")
-	)
-	(wire
-		(pts
-			(xy 48.26 132.08) (xy 54.61 132.08)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9be8a505-bc4d-4c31-9cfb-877c79871951")
 	)
 	(wire
 		(pts
@@ -8918,16 +8918,6 @@
 			(type default)
 		)
 		(uuid "cf7f6356-fd3a-4858-b14a-8946b922c68b")
-	)
-	(wire
-		(pts
-			(xy 41.91 132.08) (xy 48.26 132.08)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d048ceb4-f27a-4543-9bd6-0346629e60d1")
 	)
 	(wire
 		(pts
@@ -10181,6 +10171,16 @@
 	)
 	(wire
 		(pts
+			(xy 73.66 132.08) (xy 93.98 132.08)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "faa0492e-ae97-4264-9a9e-40caf828d4de")
+	)
+	(wire
+		(pts
 			(xy 182.88 38.1) (xy 182.88 35.56)
 		)
 		(stroke
@@ -10271,6 +10271,16 @@
 	)
 	(wire
 		(pts
+			(xy 48.26 132.08) (xy 54.61 132.08)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fd54cecf-381f-43fc-bffd-9063b7b6a3ce")
+	)
+	(wire
+		(pts
 			(xy 132.08 54.61) (xy 132.08 58.42)
 		)
 		(stroke
@@ -10308,16 +10318,6 @@
 			(type default)
 		)
 		(uuid "fe5da342-f7b1-4c2c-95db-2c8b264d44df")
-	)
-	(wire
-		(pts
-			(xy 73.66 132.08) (xy 93.98 132.08)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "fe985e66-5124-4850-995e-90e61caab3df")
 	)
 	(wire
 		(pts
@@ -10800,7 +10800,8 @@
 	)
 	(symbol
 		(lib_id "persional_library:KEYBOARD-SW")
-		(at 228.6 129.54 90)
+		(at 228.6 121.92 90)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10817,7 +10818,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 231.14 127 90)
+			(at 231.14 124.46 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10826,7 +10827,7 @@
 			)
 		)
 		(property "Footprint" "persional_library:MX-KEY-INSTALLED"
-			(at 228.6 129.54 0)
+			(at 228.6 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10835,7 +10836,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 228.6 129.54 0)
+			(at 228.6 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10844,7 +10845,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 228.6 129.54 0)
+			(at 228.6 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10869,7 +10870,8 @@
 	)
 	(symbol
 		(lib_id "persional_library:KEYBOARD-SW")
-		(at 41.91 129.54 90)
+		(at 41.91 121.92 90)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10886,7 +10888,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 44.45 127 90)
+			(at 44.45 124.46 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10895,7 +10897,7 @@
 			)
 		)
 		(property "Footprint" "persional_library:MX-KEY-INSTALLED"
-			(at 41.91 129.54 0)
+			(at 41.91 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10904,7 +10906,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 41.91 129.54 0)
+			(at 41.91 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10913,7 +10915,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 41.91 129.54 0)
+			(at 41.91 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10938,7 +10940,8 @@
 	)
 	(symbol
 		(lib_id "persional_library:KEYBOARD-SW")
-		(at 266.7 129.54 90)
+		(at 266.7 121.92 90)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10955,7 +10958,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 269.24 127 90)
+			(at 269.24 124.46 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10964,7 +10967,7 @@
 			)
 		)
 		(property "Footprint" "persional_library:MX-KEY-INSTALLED"
-			(at 266.7 129.54 0)
+			(at 266.7 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10973,7 +10976,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 266.7 129.54 0)
+			(at 266.7 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10982,7 +10985,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 266.7 129.54 0)
+			(at 266.7 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11007,7 +11010,8 @@
 	)
 	(symbol
 		(lib_id "persional_library:KEYBOARD-SW")
-		(at 60.96 68.58 90)
+		(at 60.96 60.96 90)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11024,7 +11028,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 63.5 66.04 90)
+			(at 63.5 63.5 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11033,7 +11037,7 @@
 			)
 		)
 		(property "Footprint" "persional_library:MX-KEY-INSTALLED"
-			(at 60.96 68.58 0)
+			(at 60.96 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11042,7 +11046,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 60.96 68.58 0)
+			(at 60.96 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11051,7 +11055,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 60.96 68.58 0)
+			(at 60.96 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11076,7 +11080,8 @@
 	)
 	(symbol
 		(lib_id "persional_library:KEYBOARD-SW")
-		(at 184.15 129.54 90)
+		(at 184.15 121.92 90)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11093,7 +11098,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 186.69 127 90)
+			(at 186.69 124.46 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11102,7 +11107,7 @@
 			)
 		)
 		(property "Footprint" "persional_library:MX-KEY-INSTALLED"
-			(at 184.15 129.54 0)
+			(at 184.15 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11111,7 +11116,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 184.15 129.54 0)
+			(at 184.15 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11120,7 +11125,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 184.15 129.54 0)
+			(at 184.15 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11145,7 +11150,8 @@
 	)
 	(symbol
 		(lib_id "persional_library:KEYBOARD-SW")
-		(at 138.43 129.54 90)
+		(at 138.43 121.92 90)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11162,7 +11168,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 140.97 127 90)
+			(at 140.97 124.46 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11171,7 +11177,7 @@
 			)
 		)
 		(property "Footprint" "persional_library:MX-KEY-INSTALLED"
-			(at 138.43 129.54 0)
+			(at 138.43 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11180,7 +11186,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 138.43 129.54 0)
+			(at 138.43 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11189,7 +11195,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 138.43 129.54 0)
+			(at 138.43 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11327,7 +11333,8 @@
 	)
 	(symbol
 		(lib_id "persional_library:KEYBOARD-SW")
-		(at 35.56 129.54 90)
+		(at 35.56 121.92 90)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11344,7 +11351,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 38.1 127 90)
+			(at 38.1 124.46 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11353,7 +11360,7 @@
 			)
 		)
 		(property "Footprint" "persional_library:MX-KEY-INSTALLED"
-			(at 35.56 129.54 0)
+			(at 35.56 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11362,7 +11369,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 35.56 129.54 0)
+			(at 35.56 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11371,7 +11378,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 35.56 129.54 0)
+			(at 35.56 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11396,7 +11403,8 @@
 	)
 	(symbol
 		(lib_id "persional_library:KEYBOARD-SW")
-		(at 93.98 68.58 90)
+		(at 93.98 60.96 90)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11413,7 +11421,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 96.52 66.04 90)
+			(at 96.52 63.5 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11422,7 +11430,7 @@
 			)
 		)
 		(property "Footprint" "persional_library:MX-KEY-INSTALLED"
-			(at 93.98 68.58 0)
+			(at 93.98 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11431,7 +11439,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 93.98 68.58 0)
+			(at 93.98 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11440,7 +11448,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 93.98 68.58 0)
+			(at 93.98 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11595,7 +11603,8 @@
 	)
 	(symbol
 		(lib_id "persional_library:KEYBOARD-SW")
-		(at 158.75 68.58 90)
+		(at 158.75 60.96 90)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11612,7 +11621,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 161.29 66.04 90)
+			(at 161.29 63.5 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11621,7 +11630,7 @@
 			)
 		)
 		(property "Footprint" "persional_library:MX-KEY-INSTALLED"
-			(at 158.75 68.58 0)
+			(at 158.75 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11630,7 +11639,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 158.75 68.58 0)
+			(at 158.75 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11639,7 +11648,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 158.75 68.58 0)
+			(at 158.75 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11729,7 +11738,8 @@
 	)
 	(symbol
 		(lib_id "persional_library:KEYBOARD-SW")
-		(at 35.56 190.5 90)
+		(at 35.56 182.88 90)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11746,7 +11756,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 38.1 187.96 90)
+			(at 38.1 185.42 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11755,7 +11765,7 @@
 			)
 		)
 		(property "Footprint" "persional_library:MX-KEY-INSTALLED"
-			(at 35.56 190.5 0)
+			(at 35.56 182.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11764,7 +11774,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 35.56 190.5 0)
+			(at 35.56 182.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11773,7 +11783,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 35.56 190.5 0)
+			(at 35.56 182.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11798,7 +11808,8 @@
 	)
 	(symbol
 		(lib_id "persional_library:KEYBOARD-SW")
-		(at 119.38 68.58 90)
+		(at 119.38 60.96 90)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11815,7 +11826,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 121.92 66.04 90)
+			(at 121.92 63.5 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11824,7 +11835,7 @@
 			)
 		)
 		(property "Footprint" "persional_library:MX-KEY-INSTALLED"
-			(at 119.38 68.58 0)
+			(at 119.38 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11833,7 +11844,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 119.38 68.58 0)
+			(at 119.38 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11842,7 +11853,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 119.38 68.58 0)
+			(at 119.38 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11867,7 +11878,8 @@
 	)
 	(symbol
 		(lib_id "persional_library:KEYBOARD-SW")
-		(at 138.43 68.58 90)
+		(at 138.43 60.96 90)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11884,7 +11896,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 140.97 66.04 90)
+			(at 140.97 63.5 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11893,7 +11905,7 @@
 			)
 		)
 		(property "Footprint" "persional_library:MX-KEY-INSTALLED"
-			(at 138.43 68.58 0)
+			(at 138.43 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11902,7 +11914,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 138.43 68.58 0)
+			(at 138.43 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11911,7 +11923,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 138.43 68.58 0)
+			(at 138.43 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12273,7 +12285,8 @@
 	)
 	(symbol
 		(lib_id "persional_library:KEYBOARD-SW")
-		(at 158.75 190.5 90)
+		(at 158.75 182.88 90)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -12290,7 +12303,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 161.29 187.96 90)
+			(at 161.29 185.42 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12299,7 +12312,7 @@
 			)
 		)
 		(property "Footprint" "persional_library:MX-KEY-INSTALLED"
-			(at 158.75 190.5 0)
+			(at 158.75 182.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12308,7 +12321,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 158.75 190.5 0)
+			(at 158.75 182.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12317,7 +12330,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 158.75 190.5 0)
+			(at 158.75 182.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12475,7 +12488,8 @@
 	)
 	(symbol
 		(lib_id "persional_library:KEYBOARD-SW")
-		(at 247.65 68.58 90)
+		(at 247.65 60.96 90)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -12492,7 +12506,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 250.19 66.04 90)
+			(at 250.19 63.5 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12501,7 +12515,7 @@
 			)
 		)
 		(property "Footprint" "persional_library:MX-KEY-INSTALLED"
-			(at 247.65 68.58 0)
+			(at 247.65 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12510,7 +12524,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 247.65 68.58 0)
+			(at 247.65 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12519,7 +12533,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 247.65 68.58 0)
+			(at 247.65 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12610,7 +12624,8 @@
 	)
 	(symbol
 		(lib_id "persional_library:KEYBOARD-SW")
-		(at 93.98 190.5 90)
+		(at 93.98 182.88 90)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -12627,7 +12642,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 96.52 187.96 90)
+			(at 96.52 185.42 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12636,7 +12651,7 @@
 			)
 		)
 		(property "Footprint" "persional_library:MX-KEY-INSTALLED"
-			(at 93.98 190.5 0)
+			(at 93.98 182.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12645,7 +12660,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 93.98 190.5 0)
+			(at 93.98 182.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12654,7 +12669,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 93.98 190.5 0)
+			(at 93.98 182.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12679,7 +12694,8 @@
 	)
 	(symbol
 		(lib_id "persional_library:KEYBOARD-SW")
-		(at 125.73 129.54 90)
+		(at 125.73 121.92 90)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -12696,7 +12712,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 128.27 127 90)
+			(at 128.27 124.46 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12705,7 +12721,7 @@
 			)
 		)
 		(property "Footprint" "persional_library:MX-KEY-INSTALLED"
-			(at 125.73 129.54 0)
+			(at 125.73 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12714,7 +12730,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 125.73 129.54 0)
+			(at 125.73 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12723,7 +12739,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 125.73 129.54 0)
+			(at 125.73 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12878,7 +12894,8 @@
 	)
 	(symbol
 		(lib_id "persional_library:KEYBOARD-SW")
-		(at 67.31 190.5 90)
+		(at 67.31 182.88 90)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -12895,7 +12912,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 69.85 187.96 90)
+			(at 69.85 185.42 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12904,7 +12921,7 @@
 			)
 		)
 		(property "Footprint" "persional_library:MX-KEY-INSTALLED"
-			(at 67.31 190.5 0)
+			(at 67.31 182.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12913,7 +12930,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 67.31 190.5 0)
+			(at 67.31 182.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12922,7 +12939,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 67.31 190.5 0)
+			(at 67.31 182.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13234,7 +13251,8 @@
 	)
 	(symbol
 		(lib_id "persional_library:KEYBOARD-SW")
-		(at 106.68 190.5 90)
+		(at 106.68 182.88 90)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -13251,7 +13269,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 109.22 187.96 90)
+			(at 109.22 185.42 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13260,7 +13278,7 @@
 			)
 		)
 		(property "Footprint" "persional_library:MX-KEY-INSTALLED"
-			(at 106.68 190.5 0)
+			(at 106.68 182.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13269,7 +13287,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 106.68 190.5 0)
+			(at 106.68 182.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13278,7 +13296,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 106.68 190.5 0)
+			(at 106.68 182.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13501,7 +13519,8 @@
 	)
 	(symbol
 		(lib_id "persional_library:KEYBOARD-SW")
-		(at 125.73 68.58 90)
+		(at 125.73 60.96 90)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -13518,7 +13537,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 128.27 66.04 90)
+			(at 128.27 63.5 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13527,7 +13546,7 @@
 			)
 		)
 		(property "Footprint" "persional_library:MX-KEY-INSTALLED"
-			(at 125.73 68.58 0)
+			(at 125.73 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13536,7 +13555,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 125.73 68.58 0)
+			(at 125.73 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13545,7 +13564,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 125.73 68.58 0)
+			(at 125.73 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13703,7 +13722,8 @@
 	)
 	(symbol
 		(lib_id "persional_library:KEYBOARD-SW")
-		(at 106.68 68.58 90)
+		(at 106.68 60.96 90)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -13720,7 +13740,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 109.22 66.04 90)
+			(at 109.22 63.5 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13729,7 +13749,7 @@
 			)
 		)
 		(property "Footprint" "persional_library:MX-KEY-INSTALLED"
-			(at 106.68 68.58 0)
+			(at 106.68 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13738,7 +13758,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 106.68 68.58 0)
+			(at 106.68 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13747,7 +13767,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 106.68 68.58 0)
+			(at 106.68 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13772,7 +13792,8 @@
 	)
 	(symbol
 		(lib_id "persional_library:KEYBOARD-SW")
-		(at 184.15 68.58 90)
+		(at 184.15 60.96 90)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -13789,7 +13810,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 186.69 66.04 90)
+			(at 186.69 63.5 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13798,7 +13819,7 @@
 			)
 		)
 		(property "Footprint" "persional_library:MX-KEY-INSTALLED"
-			(at 184.15 68.58 0)
+			(at 184.15 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13807,7 +13828,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 184.15 68.58 0)
+			(at 184.15 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13816,7 +13837,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 184.15 68.58 0)
+			(at 184.15 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13841,7 +13862,8 @@
 	)
 	(symbol
 		(lib_id "persional_library:KEYBOARD-SW")
-		(at 29.21 68.58 90)
+		(at 29.21 60.96 90)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -13858,7 +13880,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 31.75 66.04 90)
+			(at 31.75 63.5 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13867,7 +13889,7 @@
 			)
 		)
 		(property "Footprint" "persional_library:MX-KEY-INSTALLED"
-			(at 29.21 68.58 0)
+			(at 29.21 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13876,7 +13898,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 29.21 68.58 0)
+			(at 29.21 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13885,7 +13907,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 29.21 68.58 0)
+			(at 29.21 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13910,7 +13932,8 @@
 	)
 	(symbol
 		(lib_id "persional_library:KEYBOARD-SW")
-		(at 260.35 129.54 90)
+		(at 260.35 121.92 90)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -13927,7 +13950,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 262.89 127 90)
+			(at 262.89 124.46 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13936,7 +13959,7 @@
 			)
 		)
 		(property "Footprint" "persional_library:MX-KEY-INSTALLED"
-			(at 260.35 129.54 0)
+			(at 260.35 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13945,7 +13968,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 260.35 129.54 0)
+			(at 260.35 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13954,7 +13977,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 260.35 129.54 0)
+			(at 260.35 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14201,7 +14224,8 @@
 	)
 	(symbol
 		(lib_id "persional_library:KEYBOARD-SW")
-		(at 222.25 68.58 90)
+		(at 222.25 60.96 90)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -14218,7 +14242,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 224.79 66.04 90)
+			(at 224.79 63.5 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14227,7 +14251,7 @@
 			)
 		)
 		(property "Footprint" "persional_library:MX-KEY-INSTALLED"
-			(at 222.25 68.58 0)
+			(at 222.25 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14236,7 +14260,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 222.25 68.58 0)
+			(at 222.25 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14245,7 +14269,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 222.25 68.58 0)
+			(at 222.25 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14336,7 +14360,8 @@
 	)
 	(symbol
 		(lib_id "persional_library:KEYBOARD-SW")
-		(at 132.08 190.5 90)
+		(at 132.08 182.88 90)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -14353,7 +14378,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 134.62 187.96 90)
+			(at 134.62 185.42 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14362,7 +14387,7 @@
 			)
 		)
 		(property "Footprint" "persional_library:MX-KEY-INSTALLED"
-			(at 132.08 190.5 0)
+			(at 132.08 182.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14371,7 +14396,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 132.08 190.5 0)
+			(at 132.08 182.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14380,7 +14405,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 132.08 190.5 0)
+			(at 132.08 182.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14405,7 +14430,8 @@
 	)
 	(symbol
 		(lib_id "persional_library:KEYBOARD-SW")
-		(at 60.96 190.5 90)
+		(at 60.96 182.88 90)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -14422,7 +14448,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 63.5 187.96 90)
+			(at 63.5 185.42 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14431,7 +14457,7 @@
 			)
 		)
 		(property "Footprint" "persional_library:MX-KEY-INSTALLED"
-			(at 60.96 190.5 0)
+			(at 60.96 182.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14440,7 +14466,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 60.96 190.5 0)
+			(at 60.96 182.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14449,7 +14475,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 60.96 190.5 0)
+			(at 60.96 182.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14474,7 +14500,8 @@
 	)
 	(symbol
 		(lib_id "persional_library:KEYBOARD-SW")
-		(at 73.66 190.5 90)
+		(at 73.66 182.88 90)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -14491,7 +14518,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 76.2 187.96 90)
+			(at 76.2 185.42 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14500,7 +14527,7 @@
 			)
 		)
 		(property "Footprint" "persional_library:MX-KEY-INSTALLED"
-			(at 73.66 190.5 0)
+			(at 73.66 182.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14509,7 +14536,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 73.66 190.5 0)
+			(at 73.66 182.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14518,7 +14545,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 73.66 190.5 0)
+			(at 73.66 182.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14609,7 +14636,8 @@
 	)
 	(symbol
 		(lib_id "persional_library:KEYBOARD-SW")
-		(at 125.73 190.5 90)
+		(at 125.73 182.88 90)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -14626,7 +14654,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 128.27 187.96 90)
+			(at 128.27 185.42 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14635,7 +14663,7 @@
 			)
 		)
 		(property "Footprint" "persional_library:MX-KEY-INSTALLED"
-			(at 125.73 190.5 0)
+			(at 125.73 182.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14644,7 +14672,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 125.73 190.5 0)
+			(at 125.73 182.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14653,7 +14681,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 125.73 190.5 0)
+			(at 125.73 182.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14678,7 +14706,8 @@
 	)
 	(symbol
 		(lib_id "persional_library:KEYBOARD-SW")
-		(at 113.03 190.5 90)
+		(at 113.03 182.88 90)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -14695,7 +14724,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 115.57 187.96 90)
+			(at 115.57 185.42 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14704,7 +14733,7 @@
 			)
 		)
 		(property "Footprint" "persional_library:MX-KEY-INSTALLED"
-			(at 113.03 190.5 0)
+			(at 113.03 182.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14713,7 +14742,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 113.03 190.5 0)
+			(at 113.03 182.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14722,7 +14751,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 113.03 190.5 0)
+			(at 113.03 182.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14747,7 +14776,8 @@
 	)
 	(symbol
 		(lib_id "persional_library:KEYBOARD-SW")
-		(at 132.08 129.54 90)
+		(at 132.08 121.92 90)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -14764,7 +14794,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 134.62 127 90)
+			(at 134.62 124.46 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14773,7 +14803,7 @@
 			)
 		)
 		(property "Footprint" "persional_library:MX-KEY-INSTALLED"
-			(at 132.08 129.54 0)
+			(at 132.08 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14782,7 +14812,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 132.08 129.54 0)
+			(at 132.08 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14791,7 +14821,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 132.08 129.54 0)
+			(at 132.08 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14816,7 +14846,8 @@
 	)
 	(symbol
 		(lib_id "persional_library:KEYBOARD-SW")
-		(at 247.65 129.54 90)
+		(at 247.65 121.92 90)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -14833,7 +14864,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 250.19 127 90)
+			(at 250.19 124.46 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14842,7 +14873,7 @@
 			)
 		)
 		(property "Footprint" "persional_library:MX-KEY-INSTALLED"
-			(at 247.65 129.54 0)
+			(at 247.65 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14851,7 +14882,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 247.65 129.54 0)
+			(at 247.65 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14860,7 +14891,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 247.65 129.54 0)
+			(at 247.65 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15175,7 +15206,8 @@
 	)
 	(symbol
 		(lib_id "persional_library:KEYBOARD-SW")
-		(at 177.8 129.54 90)
+		(at 177.8 121.92 90)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -15192,7 +15224,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 180.34 127 90)
+			(at 180.34 124.46 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15201,7 +15233,7 @@
 			)
 		)
 		(property "Footprint" "persional_library:MX-KEY-INSTALLED"
-			(at 177.8 129.54 0)
+			(at 177.8 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15210,7 +15242,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 177.8 129.54 0)
+			(at 177.8 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15219,7 +15251,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 177.8 129.54 0)
+			(at 177.8 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15244,7 +15276,8 @@
 	)
 	(symbol
 		(lib_id "persional_library:KEYBOARD-SW")
-		(at 29.21 190.5 90)
+		(at 29.21 182.88 90)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -15261,7 +15294,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 31.75 187.96 90)
+			(at 31.75 185.42 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15270,7 +15303,7 @@
 			)
 		)
 		(property "Footprint" "persional_library:MX-KEY-INSTALLED"
-			(at 29.21 190.5 0)
+			(at 29.21 182.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15279,7 +15312,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 29.21 190.5 0)
+			(at 29.21 182.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15288,7 +15321,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 29.21 190.5 0)
+			(at 29.21 182.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15313,7 +15346,8 @@
 	)
 	(symbol
 		(lib_id "persional_library:KEYBOARD-SW")
-		(at 67.31 68.58 90)
+		(at 67.31 60.96 90)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -15330,7 +15364,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 69.85 66.04 90)
+			(at 69.85 63.5 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15339,7 +15373,7 @@
 			)
 		)
 		(property "Footprint" "persional_library:MX-KEY-INSTALLED"
-			(at 67.31 68.58 0)
+			(at 67.31 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15348,7 +15382,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 67.31 68.58 0)
+			(at 67.31 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15357,7 +15391,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 67.31 68.58 0)
+			(at 67.31 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15382,7 +15416,8 @@
 	)
 	(symbol
 		(lib_id "persional_library:KEYBOARD-SW")
-		(at 113.03 68.58 90)
+		(at 113.03 60.96 90)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -15399,7 +15434,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 115.57 66.04 90)
+			(at 115.57 63.5 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15408,7 +15443,7 @@
 			)
 		)
 		(property "Footprint" "persional_library:MX-KEY-INSTALLED"
-			(at 113.03 68.58 0)
+			(at 113.03 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15417,7 +15452,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 113.03 68.58 0)
+			(at 113.03 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15426,7 +15461,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 113.03 68.58 0)
+			(at 113.03 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15564,7 +15599,8 @@
 	)
 	(symbol
 		(lib_id "persional_library:KEYBOARD-SW")
-		(at 241.3 129.54 90)
+		(at 241.3 121.92 90)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -15581,7 +15617,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 243.84 127 90)
+			(at 243.84 124.46 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15590,7 +15626,7 @@
 			)
 		)
 		(property "Footprint" "persional_library:MX-KEY-INSTALLED"
-			(at 241.3 129.54 0)
+			(at 241.3 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15599,7 +15635,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 241.3 129.54 0)
+			(at 241.3 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15608,7 +15644,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 241.3 129.54 0)
+			(at 241.3 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15633,7 +15669,8 @@
 	)
 	(symbol
 		(lib_id "persional_library:KEYBOARD-SW")
-		(at 48.26 129.54 90)
+		(at 48.26 121.92 90)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -15650,7 +15687,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 50.8 127 90)
+			(at 50.8 124.46 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15659,7 +15696,7 @@
 			)
 		)
 		(property "Footprint" "persional_library:MX-KEY-INSTALLED"
-			(at 48.26 129.54 0)
+			(at 48.26 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15668,7 +15705,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 48.26 129.54 0)
+			(at 48.26 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15677,7 +15714,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 48.26 129.54 0)
+			(at 48.26 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15859,7 +15896,8 @@
 	)
 	(symbol
 		(lib_id "persional_library:KEYBOARD-SW")
-		(at 41.91 190.5 90)
+		(at 41.91 182.88 90)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -15876,7 +15914,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 44.45 187.96 90)
+			(at 44.45 185.42 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15885,7 +15923,7 @@
 			)
 		)
 		(property "Footprint" "persional_library:MX-KEY-INSTALLED"
-			(at 41.91 190.5 0)
+			(at 41.91 182.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15894,7 +15932,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 41.91 190.5 0)
+			(at 41.91 182.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15903,7 +15941,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 41.91 190.5 0)
+			(at 41.91 182.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15928,7 +15966,8 @@
 	)
 	(symbol
 		(lib_id "persional_library:KEYBOARD-SW")
-		(at 60.96 129.54 90)
+		(at 60.96 121.92 90)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -15945,7 +15984,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 63.5 127 90)
+			(at 63.5 124.46 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15954,7 +15993,7 @@
 			)
 		)
 		(property "Footprint" "persional_library:MX-KEY-INSTALLED"
-			(at 60.96 129.54 0)
+			(at 60.96 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15963,7 +16002,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 60.96 129.54 0)
+			(at 60.96 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15972,7 +16011,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 60.96 129.54 0)
+			(at 60.96 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16127,7 +16166,8 @@
 	)
 	(symbol
 		(lib_id "persional_library:KEYBOARD-SW")
-		(at 190.5 68.58 90)
+		(at 190.5 60.96 90)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -16144,7 +16184,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 193.04 66.04 90)
+			(at 193.04 63.5 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16153,7 +16193,7 @@
 			)
 		)
 		(property "Footprint" "persional_library:MX-KEY-INSTALLED"
-			(at 190.5 68.58 0)
+			(at 190.5 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16162,7 +16202,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 190.5 68.58 0)
+			(at 190.5 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16171,7 +16211,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 190.5 68.58 0)
+			(at 190.5 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16327,7 +16367,8 @@
 	)
 	(symbol
 		(lib_id "persional_library:KEYBOARD-SW")
-		(at 165.1 129.54 90)
+		(at 165.1 121.92 90)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -16344,7 +16385,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 167.64 127 90)
+			(at 167.64 124.46 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16353,7 +16394,7 @@
 			)
 		)
 		(property "Footprint" "persional_library:MX-KEY-INSTALLED"
-			(at 165.1 129.54 0)
+			(at 165.1 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16362,7 +16403,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 165.1 129.54 0)
+			(at 165.1 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16371,7 +16412,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 165.1 129.54 0)
+			(at 165.1 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16396,7 +16437,8 @@
 	)
 	(symbol
 		(lib_id "persional_library:KEYBOARD-SW")
-		(at 196.85 68.58 90)
+		(at 196.85 60.96 90)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -16413,7 +16455,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 199.39 66.04 90)
+			(at 199.39 63.5 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16422,7 +16464,7 @@
 			)
 		)
 		(property "Footprint" "persional_library:MX-KEY-INSTALLED"
-			(at 196.85 68.58 0)
+			(at 196.85 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16431,7 +16473,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 196.85 68.58 0)
+			(at 196.85 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16440,7 +16482,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 196.85 68.58 0)
+			(at 196.85 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16465,7 +16507,8 @@
 	)
 	(symbol
 		(lib_id "persional_library:KEYBOARD-SW")
-		(at 93.98 129.54 90)
+		(at 93.98 121.92 90)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -16482,7 +16525,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 96.52 127 90)
+			(at 96.52 124.46 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16491,7 +16534,7 @@
 			)
 		)
 		(property "Footprint" "persional_library:MX-KEY-INSTALLED"
-			(at 93.98 129.54 0)
+			(at 93.98 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16500,7 +16543,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 93.98 129.54 0)
+			(at 93.98 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16509,7 +16552,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 93.98 129.54 0)
+			(at 93.98 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16534,7 +16577,8 @@
 	)
 	(symbol
 		(lib_id "persional_library:KEYBOARD-SW")
-		(at 54.61 129.54 90)
+		(at 54.61 121.92 90)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -16551,7 +16595,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 57.15 127 90)
+			(at 57.15 124.46 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16560,7 +16604,7 @@
 			)
 		)
 		(property "Footprint" "persional_library:MX-KEY-INSTALLED"
-			(at 54.61 129.54 0)
+			(at 54.61 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16569,7 +16613,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 54.61 129.54 0)
+			(at 54.61 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16578,7 +16622,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 54.61 129.54 0)
+			(at 54.61 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16603,7 +16647,8 @@
 	)
 	(symbol
 		(lib_id "persional_library:KEYBOARD-SW")
-		(at 234.95 129.54 90)
+		(at 234.95 121.92 90)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -16620,7 +16665,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 237.49 127 90)
+			(at 237.49 124.46 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16629,7 +16674,7 @@
 			)
 		)
 		(property "Footprint" "persional_library:MX-KEY-INSTALLED"
-			(at 234.95 129.54 0)
+			(at 234.95 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16638,7 +16683,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 234.95 129.54 0)
+			(at 234.95 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16647,7 +16692,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 234.95 129.54 0)
+			(at 234.95 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16672,7 +16717,8 @@
 	)
 	(symbol
 		(lib_id "persional_library:KEYBOARD-SW")
-		(at 254 68.58 90)
+		(at 254 60.96 90)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -16689,7 +16735,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 256.54 66.04 90)
+			(at 256.54 63.5 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16698,7 +16744,7 @@
 			)
 		)
 		(property "Footprint" "persional_library:MX-KEY-INSTALLED"
-			(at 254 68.58 0)
+			(at 254 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16707,7 +16753,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 254 68.58 0)
+			(at 254 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16716,7 +16762,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 254 68.58 0)
+			(at 254 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16872,7 +16918,8 @@
 	)
 	(symbol
 		(lib_id "persional_library:KEYBOARD-SW")
-		(at 171.45 129.54 90)
+		(at 171.45 121.92 90)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -16889,7 +16936,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 173.99 127 90)
+			(at 173.99 124.46 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16898,7 +16945,7 @@
 			)
 		)
 		(property "Footprint" "persional_library:MX-KEY-INSTALLED"
-			(at 171.45 129.54 0)
+			(at 171.45 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16907,7 +16954,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 171.45 129.54 0)
+			(at 171.45 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16916,7 +16963,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 171.45 129.54 0)
+			(at 171.45 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17139,7 +17186,8 @@
 	)
 	(symbol
 		(lib_id "persional_library:KEYBOARD-SW")
-		(at 54.61 68.58 90)
+		(at 54.61 60.96 90)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -17156,7 +17204,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 57.15 66.04 90)
+			(at 57.15 63.5 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17165,7 +17213,7 @@
 			)
 		)
 		(property "Footprint" "persional_library:MX-KEY-INSTALLED"
-			(at 54.61 68.58 0)
+			(at 54.61 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17174,7 +17222,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 54.61 68.58 0)
+			(at 54.61 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17183,7 +17231,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 54.61 68.58 0)
+			(at 54.61 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17208,7 +17256,8 @@
 	)
 	(symbol
 		(lib_id "persional_library:KEYBOARD-SW")
-		(at 100.33 129.54 90)
+		(at 100.33 121.92 90)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -17225,7 +17274,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 102.87 127 90)
+			(at 102.87 124.46 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17234,7 +17283,7 @@
 			)
 		)
 		(property "Footprint" "persional_library:MX-KEY-INSTALLED"
-			(at 100.33 129.54 0)
+			(at 100.33 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17243,7 +17292,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 100.33 129.54 0)
+			(at 100.33 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17252,7 +17301,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 100.33 129.54 0)
+			(at 100.33 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17277,7 +17326,8 @@
 	)
 	(symbol
 		(lib_id "persional_library:KEYBOARD-SW")
-		(at 138.43 190.5 90)
+		(at 138.43 182.88 90)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -17294,7 +17344,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 140.97 187.96 90)
+			(at 140.97 185.42 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17303,7 +17353,7 @@
 			)
 		)
 		(property "Footprint" "persional_library:MX-KEY-INSTALLED"
-			(at 138.43 190.5 0)
+			(at 138.43 182.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17312,7 +17362,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 138.43 190.5 0)
+			(at 138.43 182.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17321,7 +17371,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 138.43 190.5 0)
+			(at 138.43 182.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17346,7 +17396,8 @@
 	)
 	(symbol
 		(lib_id "persional_library:KEYBOARD-SW")
-		(at 132.08 68.58 90)
+		(at 132.08 60.96 90)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -17363,7 +17414,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 134.62 66.04 90)
+			(at 134.62 63.5 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17372,7 +17423,7 @@
 			)
 		)
 		(property "Footprint" "persional_library:MX-KEY-INSTALLED"
-			(at 132.08 68.58 0)
+			(at 132.08 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17381,7 +17432,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 132.08 68.58 0)
+			(at 132.08 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17390,7 +17441,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 132.08 68.58 0)
+			(at 132.08 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17527,7 +17578,8 @@
 	)
 	(symbol
 		(lib_id "persional_library:KEYBOARD-SW")
-		(at 158.75 129.54 90)
+		(at 158.75 121.92 90)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -17544,7 +17596,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 161.29 127 90)
+			(at 161.29 124.46 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17553,7 +17605,7 @@
 			)
 		)
 		(property "Footprint" "persional_library:MX-KEY-INSTALLED"
-			(at 158.75 129.54 0)
+			(at 158.75 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17562,7 +17614,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 158.75 129.54 0)
+			(at 158.75 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17571,7 +17623,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 158.75 129.54 0)
+			(at 158.75 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17596,7 +17648,8 @@
 	)
 	(symbol
 		(lib_id "persional_library:KEYBOARD-SW")
-		(at 260.35 68.58 90)
+		(at 260.35 60.96 90)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -17613,7 +17666,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 262.89 66.04 90)
+			(at 262.89 63.5 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17622,7 +17675,7 @@
 			)
 		)
 		(property "Footprint" "persional_library:MX-KEY-INSTALLED"
-			(at 260.35 68.58 0)
+			(at 260.35 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17631,7 +17684,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 260.35 68.58 0)
+			(at 260.35 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17640,7 +17693,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 260.35 68.58 0)
+			(at 260.35 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17665,7 +17718,8 @@
 	)
 	(symbol
 		(lib_id "persional_library:KEYBOARD-SW")
-		(at 165.1 190.5 90)
+		(at 165.1 182.88 90)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -17682,7 +17736,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 167.64 187.96 90)
+			(at 167.64 185.42 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17691,7 +17745,7 @@
 			)
 		)
 		(property "Footprint" "persional_library:MX-KEY-INSTALLED"
-			(at 165.1 190.5 0)
+			(at 165.1 182.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17700,7 +17754,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 165.1 190.5 0)
+			(at 165.1 182.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17709,7 +17763,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 165.1 190.5 0)
+			(at 165.1 182.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18000,7 +18054,8 @@
 	)
 	(symbol
 		(lib_id "persional_library:KEYBOARD-SW")
-		(at 119.38 190.5 90)
+		(at 119.38 182.88 90)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -18017,7 +18072,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 121.92 187.96 90)
+			(at 121.92 185.42 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18026,7 +18081,7 @@
 			)
 		)
 		(property "Footprint" "persional_library:MX-KEY-INSTALLED"
-			(at 119.38 190.5 0)
+			(at 119.38 182.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18035,7 +18090,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 119.38 190.5 0)
+			(at 119.38 182.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18044,7 +18099,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 119.38 190.5 0)
+			(at 119.38 182.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19527,7 +19582,8 @@
 	)
 	(symbol
 		(lib_id "persional_library:KEYBOARD-SW")
-		(at 67.31 129.54 90)
+		(at 67.31 121.92 90)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -19544,7 +19600,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 69.85 127 90)
+			(at 69.85 124.46 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19553,7 +19609,7 @@
 			)
 		)
 		(property "Footprint" "persional_library:MX-KEY-INSTALLED"
-			(at 67.31 129.54 0)
+			(at 67.31 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19562,7 +19618,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 67.31 129.54 0)
+			(at 67.31 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19571,7 +19627,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 67.31 129.54 0)
+			(at 67.31 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19596,7 +19652,8 @@
 	)
 	(symbol
 		(lib_id "persional_library:KEYBOARD-SW")
-		(at 113.03 129.54 90)
+		(at 113.03 121.92 90)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -19613,7 +19670,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 115.57 127 90)
+			(at 115.57 124.46 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19622,7 +19679,7 @@
 			)
 		)
 		(property "Footprint" "persional_library:MX-KEY-INSTALLED"
-			(at 113.03 129.54 0)
+			(at 113.03 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19631,7 +19688,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 113.03 129.54 0)
+			(at 113.03 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19640,7 +19697,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 113.03 129.54 0)
+			(at 113.03 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20020,7 +20077,8 @@
 	)
 	(symbol
 		(lib_id "persional_library:KEYBOARD-SW")
-		(at 241.3 68.58 90)
+		(at 241.3 60.96 90)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -20037,7 +20095,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 243.84 66.04 90)
+			(at 243.84 63.5 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20046,7 +20104,7 @@
 			)
 		)
 		(property "Footprint" "persional_library:MX-KEY-INSTALLED"
-			(at 241.3 68.58 0)
+			(at 241.3 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20055,7 +20113,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 241.3 68.58 0)
+			(at 241.3 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20064,7 +20122,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 241.3 68.58 0)
+			(at 241.3 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20536,7 +20594,8 @@
 	)
 	(symbol
 		(lib_id "persional_library:KEYBOARD-SW")
-		(at 41.91 68.58 90)
+		(at 41.91 60.96 90)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -20553,7 +20612,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 44.45 66.04 90)
+			(at 44.45 63.5 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20562,7 +20621,7 @@
 			)
 		)
 		(property "Footprint" "persional_library:MX-KEY-INSTALLED"
-			(at 41.91 68.58 0)
+			(at 41.91 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20571,7 +20630,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 41.91 68.58 0)
+			(at 41.91 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20580,7 +20639,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 41.91 68.58 0)
+			(at 41.91 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20670,7 +20729,8 @@
 	)
 	(symbol
 		(lib_id "persional_library:KEYBOARD-SW")
-		(at 29.21 129.54 90)
+		(at 29.21 121.92 90)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -20687,7 +20747,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 31.75 127 90)
+			(at 31.75 124.46 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20696,7 +20756,7 @@
 			)
 		)
 		(property "Footprint" "persional_library:MX-KEY-INSTALLED"
-			(at 29.21 129.54 0)
+			(at 29.21 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20705,7 +20765,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 29.21 129.54 0)
+			(at 29.21 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20714,7 +20774,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 29.21 129.54 0)
+			(at 29.21 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20739,7 +20799,8 @@
 	)
 	(symbol
 		(lib_id "persional_library:KEYBOARD-SW")
-		(at 171.45 68.58 90)
+		(at 171.45 60.96 90)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -20756,7 +20817,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 173.99 66.04 90)
+			(at 173.99 63.5 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20765,7 +20826,7 @@
 			)
 		)
 		(property "Footprint" "persional_library:MX-KEY-INSTALLED"
-			(at 171.45 68.58 0)
+			(at 171.45 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20774,7 +20835,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 171.45 68.58 0)
+			(at 171.45 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20783,7 +20844,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 171.45 68.58 0)
+			(at 171.45 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20874,7 +20935,8 @@
 	)
 	(symbol
 		(lib_id "persional_library:KEYBOARD-SW")
-		(at 48.26 68.58 90)
+		(at 48.26 60.96 90)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -20891,7 +20953,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 50.8 66.04 90)
+			(at 50.8 63.5 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20900,7 +20962,7 @@
 			)
 		)
 		(property "Footprint" "persional_library:MX-KEY-INSTALLED"
-			(at 48.26 68.58 0)
+			(at 48.26 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20909,7 +20971,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 48.26 68.58 0)
+			(at 48.26 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20918,7 +20980,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 48.26 68.58 0)
+			(at 48.26 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20943,7 +21005,8 @@
 	)
 	(symbol
 		(lib_id "persional_library:KEYBOARD-SW")
-		(at 73.66 129.54 90)
+		(at 73.66 121.92 90)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -20960,7 +21023,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 76.2 127 90)
+			(at 76.2 124.46 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20969,7 +21032,7 @@
 			)
 		)
 		(property "Footprint" "persional_library:MX-KEY-INSTALLED"
-			(at 73.66 129.54 0)
+			(at 73.66 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20978,7 +21041,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 73.66 129.54 0)
+			(at 73.66 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20987,7 +21050,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 73.66 129.54 0)
+			(at 73.66 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21012,7 +21075,8 @@
 	)
 	(symbol
 		(lib_id "persional_library:KEYBOARD-SW")
-		(at 73.66 68.58 90)
+		(at 73.66 60.96 90)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -21029,7 +21093,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 76.2 66.04 90)
+			(at 76.2 63.5 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21038,7 +21102,7 @@
 			)
 		)
 		(property "Footprint" "persional_library:MX-KEY-INSTALLED"
-			(at 73.66 68.58 0)
+			(at 73.66 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21047,7 +21111,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 73.66 68.58 0)
+			(at 73.66 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21056,7 +21120,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 73.66 68.58 0)
+			(at 73.66 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21081,7 +21145,8 @@
 	)
 	(symbol
 		(lib_id "persional_library:KEYBOARD-SW")
-		(at 254 129.54 90)
+		(at 254 121.92 90)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -21098,7 +21163,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 256.54 127 90)
+			(at 256.54 124.46 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21107,7 +21172,7 @@
 			)
 		)
 		(property "Footprint" "persional_library:MX-KEY-INSTALLED"
-			(at 254 129.54 0)
+			(at 254 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21116,7 +21181,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 254 129.54 0)
+			(at 254 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21125,7 +21190,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 254 129.54 0)
+			(at 254 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21633,7 +21698,8 @@
 	)
 	(symbol
 		(lib_id "persional_library:KEYBOARD-SW")
-		(at 190.5 129.54 90)
+		(at 190.5 121.92 90)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -21650,7 +21716,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 193.04 127 90)
+			(at 193.04 124.46 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21659,7 +21725,7 @@
 			)
 		)
 		(property "Footprint" "persional_library:MX-KEY-INSTALLED"
-			(at 190.5 129.54 0)
+			(at 190.5 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21668,7 +21734,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 190.5 129.54 0)
+			(at 190.5 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21677,7 +21743,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 190.5 129.54 0)
+			(at 190.5 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21767,7 +21833,8 @@
 	)
 	(symbol
 		(lib_id "persional_library:KEYBOARD-SW")
-		(at 177.8 68.58 90)
+		(at 177.8 60.96 90)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -21784,7 +21851,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 180.34 66.04 90)
+			(at 180.34 63.5 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21793,7 +21860,7 @@
 			)
 		)
 		(property "Footprint" "persional_library:MX-KEY-INSTALLED"
-			(at 177.8 68.58 0)
+			(at 177.8 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21802,7 +21869,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 177.8 68.58 0)
+			(at 177.8 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21811,7 +21878,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 177.8 68.58 0)
+			(at 177.8 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21901,7 +21968,8 @@
 	)
 	(symbol
 		(lib_id "persional_library:KEYBOARD-SW")
-		(at 196.85 129.54 90)
+		(at 196.85 121.92 90)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -21918,7 +21986,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 199.39 127 90)
+			(at 199.39 124.46 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21927,7 +21995,7 @@
 			)
 		)
 		(property "Footprint" "persional_library:MX-KEY-INSTALLED"
-			(at 196.85 129.54 0)
+			(at 196.85 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21936,7 +22004,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 196.85 129.54 0)
+			(at 196.85 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21945,7 +22013,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 196.85 129.54 0)
+			(at 196.85 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22103,7 +22171,8 @@
 	)
 	(symbol
 		(lib_id "persional_library:KEYBOARD-SW")
-		(at 266.7 68.58 90)
+		(at 266.7 60.96 90)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -22120,7 +22189,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 269.24 66.04 90)
+			(at 269.24 63.5 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22129,7 +22198,7 @@
 			)
 		)
 		(property "Footprint" "persional_library:MX-KEY-INSTALLED"
-			(at 266.7 68.58 0)
+			(at 266.7 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22138,7 +22207,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 266.7 68.58 0)
+			(at 266.7 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22147,7 +22216,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 266.7 68.58 0)
+			(at 266.7 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22172,7 +22241,8 @@
 	)
 	(symbol
 		(lib_id "persional_library:KEYBOARD-SW")
-		(at 100.33 68.58 90)
+		(at 100.33 60.96 90)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -22189,7 +22259,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 102.87 66.04 90)
+			(at 102.87 63.5 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22198,7 +22268,7 @@
 			)
 		)
 		(property "Footprint" "persional_library:MX-KEY-INSTALLED"
-			(at 100.33 68.58 0)
+			(at 100.33 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22207,7 +22277,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 100.33 68.58 0)
+			(at 100.33 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22216,7 +22286,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 100.33 68.58 0)
+			(at 100.33 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22374,7 +22444,8 @@
 	)
 	(symbol
 		(lib_id "persional_library:KEYBOARD-SW")
-		(at 203.2 68.58 90)
+		(at 203.2 60.96 90)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -22391,7 +22462,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 205.74 66.04 90)
+			(at 205.74 63.5 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22400,7 +22471,7 @@
 			)
 		)
 		(property "Footprint" "persional_library:MX-KEY-INSTALLED"
-			(at 203.2 68.58 0)
+			(at 203.2 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22409,7 +22480,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 203.2 68.58 0)
+			(at 203.2 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22418,7 +22489,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 203.2 68.58 0)
+			(at 203.2 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22509,7 +22580,8 @@
 	)
 	(symbol
 		(lib_id "persional_library:KEYBOARD-SW")
-		(at 222.25 129.54 90)
+		(at 222.25 121.92 90)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -22526,7 +22598,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 224.79 127 90)
+			(at 224.79 124.46 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22535,7 +22607,7 @@
 			)
 		)
 		(property "Footprint" "persional_library:MX-KEY-INSTALLED"
-			(at 222.25 129.54 0)
+			(at 222.25 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22544,7 +22616,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 222.25 129.54 0)
+			(at 222.25 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22553,7 +22625,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 222.25 129.54 0)
+			(at 222.25 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22578,7 +22650,8 @@
 	)
 	(symbol
 		(lib_id "persional_library:KEYBOARD-SW")
-		(at 165.1 68.58 90)
+		(at 165.1 60.96 90)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -22595,7 +22668,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 167.64 66.04 90)
+			(at 167.64 63.5 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22604,7 +22677,7 @@
 			)
 		)
 		(property "Footprint" "persional_library:MX-KEY-INSTALLED"
-			(at 165.1 68.58 0)
+			(at 165.1 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22613,7 +22686,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 165.1 68.58 0)
+			(at 165.1 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22622,7 +22695,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 165.1 68.58 0)
+			(at 165.1 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22777,7 +22850,8 @@
 	)
 	(symbol
 		(lib_id "persional_library:KEYBOARD-SW")
-		(at 100.33 190.5 90)
+		(at 100.33 182.88 90)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -22794,7 +22868,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 102.87 187.96 90)
+			(at 102.87 185.42 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22803,7 +22877,7 @@
 			)
 		)
 		(property "Footprint" "persional_library:MX-KEY-INSTALLED"
-			(at 100.33 190.5 0)
+			(at 100.33 182.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22812,7 +22886,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 100.33 190.5 0)
+			(at 100.33 182.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22821,7 +22895,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 100.33 190.5 0)
+			(at 100.33 182.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23044,7 +23118,8 @@
 	)
 	(symbol
 		(lib_id "persional_library:KEYBOARD-SW")
-		(at 228.6 68.58 90)
+		(at 228.6 60.96 90)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -23061,7 +23136,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 231.14 66.04 90)
+			(at 231.14 63.5 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23070,7 +23145,7 @@
 			)
 		)
 		(property "Footprint" "persional_library:MX-KEY-INSTALLED"
-			(at 228.6 68.58 0)
+			(at 228.6 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23079,7 +23154,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 228.6 68.58 0)
+			(at 228.6 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23088,7 +23163,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 228.6 68.58 0)
+			(at 228.6 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23113,7 +23188,8 @@
 	)
 	(symbol
 		(lib_id "persional_library:KEYBOARD-SW")
-		(at 48.26 190.5 90)
+		(at 48.26 182.88 90)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -23130,7 +23206,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 50.8 187.96 90)
+			(at 50.8 185.42 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23139,7 +23215,7 @@
 			)
 		)
 		(property "Footprint" "persional_library:MX-KEY-INSTALLED"
-			(at 48.26 190.5 0)
+			(at 48.26 182.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23148,7 +23224,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 48.26 190.5 0)
+			(at 48.26 182.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23157,7 +23233,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 48.26 190.5 0)
+			(at 48.26 182.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23315,7 +23391,8 @@
 	)
 	(symbol
 		(lib_id "persional_library:KEYBOARD-SW")
-		(at 35.56 68.58 90)
+		(at 35.56 60.96 90)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -23332,7 +23409,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 38.1 66.04 90)
+			(at 38.1 63.5 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23341,7 +23418,7 @@
 			)
 		)
 		(property "Footprint" "persional_library:MX-KEY-INSTALLED"
-			(at 35.56 68.58 0)
+			(at 35.56 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23350,7 +23427,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 35.56 68.58 0)
+			(at 35.56 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23359,7 +23436,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 35.56 68.58 0)
+			(at 35.56 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23384,7 +23461,8 @@
 	)
 	(symbol
 		(lib_id "persional_library:KEYBOARD-SW")
-		(at 203.2 129.54 90)
+		(at 203.2 121.92 90)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -23401,7 +23479,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 205.74 127 90)
+			(at 205.74 124.46 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23410,7 +23488,7 @@
 			)
 		)
 		(property "Footprint" "persional_library:MX-KEY-INSTALLED"
-			(at 203.2 129.54 0)
+			(at 203.2 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23419,7 +23497,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 203.2 129.54 0)
+			(at 203.2 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23428,7 +23506,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 203.2 129.54 0)
+			(at 203.2 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23852,7 +23930,8 @@
 	)
 	(symbol
 		(lib_id "persional_library:KEYBOARD-SW")
-		(at 234.95 68.58 90)
+		(at 234.95 60.96 90)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -23869,7 +23948,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 237.49 66.04 90)
+			(at 237.49 63.5 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23878,7 +23957,7 @@
 			)
 		)
 		(property "Footprint" "persional_library:MX-KEY-INSTALLED"
-			(at 234.95 68.58 0)
+			(at 234.95 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23887,7 +23966,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 234.95 68.58 0)
+			(at 234.95 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23896,7 +23975,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 234.95 68.58 0)
+			(at 234.95 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23921,7 +24000,8 @@
 	)
 	(symbol
 		(lib_id "persional_library:KEYBOARD-SW")
-		(at 54.61 190.5 90)
+		(at 54.61 182.88 90)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -23938,7 +24018,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 57.15 187.96 90)
+			(at 57.15 185.42 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23947,7 +24027,7 @@
 			)
 		)
 		(property "Footprint" "persional_library:MX-KEY-INSTALLED"
-			(at 54.61 190.5 0)
+			(at 54.61 182.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23956,7 +24036,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 54.61 190.5 0)
+			(at 54.61 182.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23965,7 +24045,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 54.61 190.5 0)
+			(at 54.61 182.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24212,7 +24292,8 @@
 	)
 	(symbol
 		(lib_id "persional_library:KEYBOARD-SW")
-		(at 106.68 129.54 90)
+		(at 106.68 121.92 90)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -24229,7 +24310,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 109.22 127 90)
+			(at 109.22 124.46 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24238,7 +24319,7 @@
 			)
 		)
 		(property "Footprint" "persional_library:MX-KEY-INSTALLED"
-			(at 106.68 129.54 0)
+			(at 106.68 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24247,7 +24328,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 106.68 129.54 0)
+			(at 106.68 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24256,7 +24337,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 106.68 129.54 0)
+			(at 106.68 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24281,7 +24362,8 @@
 	)
 	(symbol
 		(lib_id "persional_library:KEYBOARD-SW")
-		(at 119.38 129.54 90)
+		(at 119.38 121.92 90)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -24298,7 +24380,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 121.92 127 90)
+			(at 121.92 124.46 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24307,7 +24389,7 @@
 			)
 		)
 		(property "Footprint" "persional_library:MX-KEY-INSTALLED"
-			(at 119.38 129.54 0)
+			(at 119.38 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24316,7 +24398,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 119.38 129.54 0)
+			(at 119.38 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24325,7 +24407,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 119.38 129.54 0)
+			(at 119.38 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
